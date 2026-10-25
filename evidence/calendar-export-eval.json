@@ -1,0 +1,15 @@
+{
+  "checkedAt": "2026-10-25T22:47:03.860Z",
+  "origin": "http://127.0.0.1:3001/",
+  "parser": "ical.js 2.2.1 (independent RFC 5545 parser; QA-only dependency)",
+  "browserDownloadVerified": true,
+  "primaryEventCount": 10,
+  "backupOptionsInNotes": 7,
+  "additionalBackupEvents": 0,
+  "exactSourceTimesRoomsAndEvidence": true,
+  "minimumTransitionMinutes": 10,
+  "conflicts": 0,
+  "validCrlfAndUtf8Folding": true,
+  "savedExampleLabeled": true,
+  "outlookAccountImportTested": false
+}

@@ -1,0 +1,327 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My AI World 26//Learning Agenda//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:My AI World 26 - Saved example
+BEGIN:VEVENT
+UID:1789501515711001gtrq@my-ai-world-26.vercel.app
+DTSTAMP:20261025T224411Z
+DTSTART:20261026T183000Z
+DTEND:20261026T191500Z
+SUMMARY:Why Your Vector Query is Slow: Inside Look to Oracle Optimizer [LRN
+ 6046]
+LOCATION:Marco Polo 805\, Level 1
+DESCRIPTION:SAVED EXAMPLE - previously generated AI agenda.\n\nConference t
+ ime: Monday\, Oct 26\, 2026\, 11:30 AM PDT to 12:15 PM PDT (Las Vegas).\n\
+ nLearning goals supported:\nBuild RAG applications with vector search\n\nW
+ hy this session: Understand how Oracle's optimizer selects vector access p
+ aths and combines similarity search with relational operations for hybrid 
+ workloads.\n\nCatalog evidence: "Designed for developers and database spec
+ ialists\, this session explores how Oracle AI Database extends its cost-ba
+ sed optimization framework to support vector indexes and hybrid AI workloa
+ ds."\n\nOfficial session: https://reg.rf.oracle.com/flow/oracle/oaiw26/cat
+ alog/page/catalog?search=LRN6046\n\nNo suitable backup fits the rest of th
+ is agenda.\n\nThe agenda allows 10 minutes between sessions. Calendar even
+ ts use the actual session times.\n\nA plan\, not a reservation. Remaining 
+ seats are not published. Check official access requirements and room updat
+ es.\n\nCatalog snapshot: 2026-10-25T21:17:21.678Z. This export is a snapsh
+ ot and does not update automatically.
+URL:https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?searc
+ h=LRN6046
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1789938190083001tOG4@my-ai-world-26.vercel.app
+DTSTAMP:20261025T224411Z
+DTSTART:20261026T200000Z
+DTEND:20261026T220000Z
+SUMMARY:Build Enterprise AI That Works: From Enterprise Data to Agentic App
+ lications [BOO2196]
+LOCATION:Casanova 604\, Level 1
+DESCRIPTION:SAVED EXAMPLE - previously generated AI agenda.\n\nConference t
+ ime: Monday\, Oct 26\, 2026\, 1:00 PM PDT to 3:00 PM PDT (Las Vegas).\n\nL
+ earning goals supported:\nBuild RAG applications with vector search\nDevel
+ op and deploy AI agents on OCI\nEvaluate and govern production AI systems\
+ n\nWhy this session: This bootcamp connects enterprise data to a RAG agent
+  flow and covers security\, observability\, and deployment for production 
+ workflows.\n\nCatalog evidence: "You will understand how to connect struct
+ ured and unstructured data\, build an agent flow with retrieval-augmented 
+ generation (RAG)\, and prepare it for enterprise workflows."\n\nOfficial s
+ ession: https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?
+ search=BOO2196\n\nBACKUP OPTION (not a separate calendar event): Agents in
+  Action: How KPMG Deploys Fusion Agentic Apps at Scale [LRN2369]\nMonday\,
+  Oct 26\, 2026\, 12:45 PM PDT to 1:30 PM PDT. Titian 2306\, Level 2\nLearn
+  from real deployments of custom agents using Oracle AI Agent Studio\, inc
+ luding governance practices for managing them at scale.\nhttps://reg.rf.or
+ acle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN2369\nThis back
+ up fits as a single replacement for this primary. Multiple replacements ne
+ ed a fresh conflict check.\n\nThe agenda allows 10 minutes between session
+ s. Calendar events use the actual session times.\n\nA plan\, not a reserva
+ tion. Remaining seats are not published. Check official access requirement
+ s and room updates.\n\nCatalog snapshot: 2026-10-25T21:17:21.678Z. This ex
+ port is a snapshot and does not update automatically.
+URL:https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?searc
+ h=BOO2196
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1789501679132001g60N@my-ai-world-26.vercel.app
+DTSTAMP:20261025T224411Z
+DTSTART:20261026T221500Z
+DTEND:20261026T230000Z
+SUMMARY:Build Trusted Apps Faster with New AI Features in Oracle APEX [LRN6
+ 064]
+LOCATION:Galileo 907\, Level 1
+DESCRIPTION:SAVED EXAMPLE - previously generated AI agenda.\n\nConference t
+ ime: Monday\, Oct 26\, 2026\, 3:15 PM PDT to 4:00 PM PDT (Las Vegas).\n\nL
+ earning goals supported:\nBuild RAG applications with vector search\nDevel
+ op and deploy AI agents on OCI\n\nWhy this session: See how APEX AI featur
+ es use RAG and AI Vector Search for grounded responses\, with agents retri
+ eving data under enterprise access controls.\n\nCatalog evidence: "See how
+  retrieval-augmented generation (RAG) and AI Vector Search in Oracle AI Da
+ tabase help deliver accurate\, relevant\, and context-aware responses grou
+ nded in private enterprise data."\n\nOfficial session: https://reg.rf.orac
+ le.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6064\n\nBACKUP OP
+ TION (not a separate calendar event): Deploy LangGraph Agents with OCI Ent
+ erprise AI [HOL2207]\nMonday\, Oct 26\, 2026\, 4:00 PM PDT to 5:30 PM PDT.
+  Casanova 505\, Level 1\nA practical OCI deployment lab that packages a La
+ ngGraph agent as a FastAPI service\, containerizes it\, and deploys it as 
+ a managed application.\nhttps://reg.rf.oracle.com/flow/oracle/oaiw26/catal
+ og/page/catalog?search=HOL2207\nThis backup fits as a single replacement f
+ or this primary. Multiple replacements need a fresh conflict check.\n\nThe
+  agenda allows 10 minutes between sessions. Calendar events use the actual
+  session times.\n\nA plan\, not a reservation. Remaining seats are not pub
+ lished. Check official access requirements and room updates.\n\nCatalog sn
+ apshot: 2026-10-25T21:17:21.678Z. This export is a snapshot and does not u
+ pdate automatically.
+URL:https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?searc
+ h=LRN6064
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1789687609524001YSQ8@my-ai-world-26.vercel.app
+DTSTAMP:20261025T224411Z
+DTSTART:20261027T150000Z
+DTEND:20261027T154500Z
+SUMMARY:Agents in the AI Data Platform: From Design to Production at Scale 
+ [LRN1229]
+LOCATION:Titian 2206\, Level 2
+DESCRIPTION:SAVED EXAMPLE - previously generated AI agenda.\n\nConference t
+ ime: Tuesday\, Oct 27\, 2026\, 8:00 AM PDT to 8:45 AM PDT (Las Vegas).\n\n
+ Learning goals supported:\nBuild RAG applications with vector search\nDeve
+ lop and deploy AI agents on OCI\nEvaluate and govern production AI systems
+ \n\nWhy this session: This technical session covers grounding agents with 
+ RAG and production practices including evaluation\, observability\, audita
+ bility\, and policy controls.\n\nCatalog evidence: "The session also cover
+ s evaluation approaches\, observability\, auditability\, and deployment pr
+ actices for production environments."\n\nOfficial session: https://reg.rf.
+ oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN1229\n\nBACKU
+ P OPTION (not a separate calendar event): Evaluating and Deploying the Lat
+ est Innovations with Oracle AI Database@AWS [LRN2248]\nTuesday\, Oct 27\, 
+ 2026\, 8:00 AM PDT to 8:45 AM PDT. Veronese 2403\, Level 2\nLearn how Orac
+ le AI Vector Search can provide agentic data access in a production databa
+ se deployment on AWS.\nhttps://reg.rf.oracle.com/flow/oracle/oaiw26/catalo
+ g/page/catalog?search=LRN2248\nThis backup fits as a single replacement fo
+ r this primary. Multiple replacements need a fresh conflict check.\n\nThe 
+ agenda allows 10 minutes between sessions. Calendar events use the actual 
+ session times.\n\nA plan\, not a reservation. Remaining seats are not publ
+ ished. Check official access requirements and room updates.\n\nCatalog sna
+ pshot: 2026-10-25T21:17:21.678Z. This export is a snapshot and does not up
+ date automatically.
+URL:https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?searc
+ h=LRN1229
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1789503005714001gbaZ@my-ai-world-26.vercel.app
+DTSTAMP:20261025T224411Z
+DTSTART:20261027T173000Z
+DTEND:20261027T181500Z
+SUMMARY:Trusted Agentic AI with Oracle AI Database [LRN6035]
+LOCATION:Titian 2206\, Level 2
+DESCRIPTION:SAVED EXAMPLE - previously generated AI agenda.\n\nConference t
+ ime: Tuesday\, Oct 27\, 2026\, 10:30 AM PDT to 11:15 AM PDT (Las Vegas).\n
+ \nLearning goals supported:\nBuild RAG applications with vector search\nDe
+ velop and deploy AI agents on OCI\nEvaluate and govern production AI syste
+ ms\n\nWhy this session: This session covers database-native vector retriev
+ al\, RAG\, agent flows\, memory\, security\, and building and deploying en
+ terprise agents.\n\nCatalog evidence: "Learn how agents can find relevant 
+ data using AI Vector Search across all kinds of data\; how they can reason
+  on data with database-native semantic knowledge\, RAG\, and agent flows\;
+  how they can remember key information with a unified agent memory core\; 
+ how they can scale to the needs of any workload and any scale."\n\nOfficia
+ l session: https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catal
+ og?search=LRN6035\n\nBACKUP OPTION (not a separate calendar event): Build 
+ an AI Agent Using RAG\, Tools\, and Data with AI Data Platform [HOL2330]\n
+ Tuesday\, Oct 27\, 2026\, 10:00 AM PDT to 11:30 AM PDT. Casanova 605\, Lev
+ el 1\nBuild an AI Data Platform agent with grounded retrieval and tools\, 
+ then evaluate it by inspecting traces\, diagnosing issues\, and adding a r
+ elease gate.\nhttps://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/ca
+ talog?search=HOL2330\nThis backup fits as a single replacement for this pr
+ imary. Multiple replacements need a fresh conflict check.\n\nThe agenda al
+ lows 10 minutes between sessions. Calendar events use the actual session t
+ imes.\n\nA plan\, not a reservation. Remaining seats are not published. Ch
+ eck official access requirements and room updates.\n\nCatalog snapshot: 20
+ 26-10-25T21:17:21.678Z. This export is a snapshot and does not update auto
+ matically.
+URL:https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?searc
+ h=LRN6035
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1789503327785001sBwy@my-ai-world-26.vercel.app
+DTSTAMP:20261025T224411Z
+DTSTART:20261027T200000Z
+DTEND:20261027T204500Z
+SUMMARY:AI Vector Search: What's New and What's Next [LRN6033]
+LOCATION:Titian 2206\, Level 2
+DESCRIPTION:SAVED EXAMPLE - previously generated AI agenda.\n\nConference t
+ ime: Tuesday\, Oct 27\, 2026\, 1:00 PM PDT to 1:45 PM PDT (Las Vegas).\n\n
+ Learning goals supported:\nBuild RAG applications with vector search\nDeve
+ lop and deploy AI agents on OCI\n\nWhy this session: Learn vector-search t
+ echniques including hybrid retrieval and scalable indexes that support ent
+ erprise AI agents.\n\nCatalog evidence: "Learn how multivector capabilitie
+ s help improve semantic understanding\, how hybrid search combines vector 
+ and keyword search to help deliver more relevant results\, and how partiti
+ oned\, distributed\, and local indexes are designed to support performance
+ \, scalability\, and efficiency for enterprise AI workloads."\n\nOfficial 
+ session: https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog
+ ?search=LRN6033\n\nBACKUP OPTION (not a separate calendar event): AI Witho
+ ut Cloud Boundaries: Autonomous AI Database on AWS\, Azure\, Google Cloud 
+ [LRN6082]\nTuesday\, Oct 27\, 2026\, 1:00 PM PDT to 1:45 PM PDT. Galileo 1
+ 002\, Level 1\nExplore Oracle AI Vector Search and RAG in a managed databa
+ se\, with cross-cloud options for building AI-powered applications.\nhttps
+ ://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN608
+ 2\nThis backup fits as a single replacement for this primary. Multiple rep
+ lacements need a fresh conflict check.\n\nThe agenda allows 10 minutes bet
+ ween sessions. Calendar events use the actual session times.\n\nA plan\, n
+ ot a reservation. Remaining seats are not published. Check official access
+  requirements and room updates.\n\nCatalog snapshot: 2026-10-25T21:17:21.6
+ 78Z. This export is a snapshot and does not update automatically.
+URL:https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?searc
+ h=LRN6033
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1792082655503001wrSK@my-ai-world-26.vercel.app
+DTSTAMP:20261025T224411Z
+DTSTART:20261027T213000Z
+DTEND:20261027T215000Z
+SUMMARY:Governed Intelligence: Enterprise Agentic AI on Oracle OCI & AI Dat
+ a Platform [THR2850]
+LOCATION:Theater 4\, Oracle AI World Hub
+DESCRIPTION:SAVED EXAMPLE - previously generated AI agenda.\n\nConference t
+ ime: Tuesday\, Oct 27\, 2026\, 2:30 PM PDT to 2:50 PM PDT (Las Vegas).\n\n
+ Learning goals supported:\nDevelop and deploy AI agents on OCI\nEvaluate a
+ nd govern production AI systems\n\nWhy this session: A real-world OCI/AIDP
+  agent architecture emphasizes deterministic controls\, human validation\,
+  continuous monitoring\, and audit-ready operations.\n\nCatalog evidence: 
+ "Through a real-world SOX ITGC automation use case\, explore a seven-layer
+  architecture spanning source systems\, data integration\, evidence storag
+ e\, AI agents\, workflow orchestration\, human validation\, and the experi
+ ence layer."\n\nOfficial session: https://reg.rf.oracle.com/flow/oracle/oa
+ iw26/catalog/page/catalog?search=THR2850\n\nBACKUP OPTION (not a separate 
+ calendar event): Accelerating AI Across Oracle Applications: OCI with NVID
+ IA Developer Engagement [LRN2671]\nTuesday\, Oct 27\, 2026\, 11:45 AM PDT 
+ to 12:30 PM PDT. Veronese 2403\, Level 2\nLearn Oracle and NVIDIA integrat
+ ion patterns across vector search\, RAG\, and agentic AI orchestration tha
+ t you can apply to enterprise workflows.\nhttps://reg.rf.oracle.com/flow/o
+ racle/oaiw26/catalog/page/catalog?search=LRN2671\nThis backup fits as a si
+ ngle replacement for this primary. Multiple replacements need a fresh conf
+ lict check.\n\nThe agenda allows 10 minutes between sessions. Calendar eve
+ nts use the actual session times.\n\nA plan\, not a reservation. Remaining
+  seats are not published. Check official access requirements and room upda
+ tes.\n\nCatalog snapshot: 2026-10-25T21:17:21.678Z. This export is a snaps
+ hot and does not update automatically.
+URL:https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?searc
+ h=THR2850
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1789503856878001jeyh@my-ai-world-26.vercel.app
+DTSTAMP:20261025T224411Z
+DTSTART:20261028T160000Z
+DTEND:20261028T173000Z
+SUMMARY:From Embeddings to Agent Context: Build on Autonomous AI Vector Dat
+ abase [HOL6011]
+LOCATION:Marco Polo 703\, Level 1
+DESCRIPTION:SAVED EXAMPLE - previously generated AI agenda.\n\nConference t
+ ime: Wednesday\, Oct 28\, 2026\, 9:00 AM PDT to 10:30 AM PDT (Las Vegas).\
+ n\nLearning goals supported:\nBuild RAG applications with vector search\nD
+ evelop and deploy AI agents on OCI\n\nWhy this session: A practical vector
+ -app lab uses Python SDK workflows\, semantic retrieval\, metadata filters
+ \, and a read-only agent context tool.\n\nCatalog evidence: "You’ll work
+  with the Python SDK to use auto-generated vector embeddings and bring-you
+ r-own vector embeddings workflows\, then package retrieval as a read-only 
+ agent context tool."\n\nOfficial session: https://reg.rf.oracle.com/flow/o
+ racle/oaiw26/catalog/page/catalog?search=HOL6011\n\nBACKUP OPTION (not a s
+ eparate calendar event): AI Agent Governance and Human in the Loop with Or
+ acle Integration [LRN2288]\nWednesday\, Oct 28\, 2026\, 9:00 AM PDT to 9:4
+ 5 AM PDT. Titian 2204\, Level 2\nA live demonstration shows how to design 
+ and manage agent workflows with approvals\, reviews\, and human oversight.
+ \nhttps://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search
+ =LRN2288\nThis backup fits as a single replacement for this primary. Multi
+ ple replacements need a fresh conflict check.\n\nThe agenda allows 10 minu
+ tes between sessions. Calendar events use the actual session times.\n\nA p
+ lan\, not a reservation. Remaining seats are not published. Check official
+  access requirements and room updates.\n\nCatalog snapshot: 2026-10-25T21:
+ 17:21.678Z. This export is a snapshot and does not update automatically.
+URL:https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?searc
+ h=HOL6011
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1790029633369001V5CG@my-ai-world-26.vercel.app
+DTSTAMP:20261025T224411Z
+DTSTART:20261028T180000Z
+DTEND:20261028T182000Z
+SUMMARY:Private AI End to End with Oracle Private AI Services Container [TH
+ R6097]
+LOCATION:Theater 1\, Oracle AI World Hub
+DESCRIPTION:SAVED EXAMPLE - previously generated AI agenda.\n\nConference t
+ ime: Wednesday\, Oct 28\, 2026\, 11:00 AM PDT to 11:20 AM PDT (Las Vegas).
+ \n\nLearning goals supported:\nBuild RAG applications with vector search\n
+ Evaluate and govern production AI systems\n\nWhy this session: Explore an 
+ end-to-end private RAG workflow covering private embeddings\, vector retri
+ eval\, secure inference\, and keeping data and prompts within your infrast
+ ructure.\n\nCatalog evidence: "Learn how to generate embeddings privately\
+ , accelerate vector index creation with NVIDIA GPUs\, retrieve enterprise 
+ knowledge with Oracle AI Vector Search\, and securely perform inference us
+ ing the Private LLM Service."\n\nOfficial session: https://reg.rf.oracle.c
+ om/flow/oracle/oaiw26/catalog/page/catalog?search=THR6097\n\nNo suitable b
+ ackup fits the rest of this agenda.\n\nThe agenda allows 10 minutes betwee
+ n sessions. Calendar events use the actual session times.\n\nA plan\, not 
+ a reservation. Remaining seats are not published. Check official access re
+ quirements and room updates.\n\nCatalog snapshot: 2026-10-25T21:17:21.678Z
+ . This export is a snapshot and does not update automatically.
+URL:https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?searc
+ h=THR6097
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:1790790416004001X7gW@my-ai-world-26.vercel.app
+DTSTAMP:20261025T224411Z
+DTSTART:20261028T183000Z
+DTEND:20261028T191500Z
+SUMMARY:AI in the Database: The Grand Tour [LRN6103]
+LOCATION:Galileo 1001\, Level 1
+DESCRIPTION:SAVED EXAMPLE - previously generated AI agenda.\n\nConference t
+ ime: Wednesday\, Oct 28\, 2026\, 11:30 AM PDT to 12:15 PM PDT (Las Vegas).
+ \n\nLearning goals supported:\nBuild RAG applications with vector search\n
+ Develop and deploy AI agents on OCI\n\nWhy this session: A guided tour con
+ nects vector search and RAG with agentic solutions that retrieve and act w
+ ithin a governed database environment.\n\nCatalog evidence: "We’ll also 
+ showcase agentic solutions that can reason\, retrieve information\, and ta
+ ke action within a governed database environment."\n\nOfficial session: ht
+ tps://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN
+ 6103\n\nNo suitable backup fits the rest of this agenda.\n\nThe agenda all
+ ows 10 minutes between sessions. Calendar events use the actual session ti
+ mes.\n\nA plan\, not a reservation. Remaining seats are not published. Che
+ ck official access requirements and room updates.\n\nCatalog snapshot: 202
+ 6-10-25T21:17:21.678Z. This export is a snapshot and does not update autom
+ atically.
+URL:https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?searc
+ h=LRN6103
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

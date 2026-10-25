@@ -1,29 +1,34 @@
-✔ numbered evidence is resolved to exact original text and invalid indexes are rejected (1.3039ms)
-✔ one invalid citation does not discard other fully verified recommendations (0.934ms)
-✔ calendar converts UTC to Las Vegas independently of host timezone (15.1555ms)
-✔ calendar partitions each day exactly into sessions, open time, and transition buffers (2.2983ms)
-✔ empty selected days remain visible as open time and day filters preserve sessions (1.0743ms)
-✔ calendar expands its bounds to include early and late sessions without clipping (0.4862ms)
-✔ all four captured live personas retain every primary exactly once in the calendar (30.8427ms)
-✔ catalog snapshot has unique valid occurrences, official sources, and unchanged public seat status (31.3025ms)
-✔ input rejects missing goals, invalid days, oversized and empty backgrounds (0.4819ms)
-✔ public access baseline excludes paid training, hackathons, and ancillary events (0.267ms)
-✔ live candidate filtering excludes sessions that have already started (11.6518ms)
-✔ ten-minute transition buffer is enforced exactly (0.2896ms)
-✔ scheduler prefers two valuable compatible sessions over one long session (0.7859ms)
-✔ backup may replace primary but must not conflict with remaining agenda (0.2362ms)
-✔ unsupported goals produce gaps rather than unrelated sessions (0.0913ms)
-✔ repeated offerings do not appear twice in the agenda (0.1096ms)
-✔ AI output cannot invent session IDs, unsupported evidence or score dimensions (0.1632ms)
-✔ candidate retrieval respects days and finds each fixed persona relevant material (49.6559ms)
-✔ AI request uses exact candidates and schema, with a deterministic validated result (30.3539ms)
-✔ missing credentials and provider failures stay explicit (30.1639ms)
-✔ 100 generated schedules and all their replacements satisfy the independent invariants (19.042ms)
-ℹ tests 21
+﻿✔ numbered evidence is resolved to exact original text and invalid indexes are rejected (0.683ms)
+✔ one invalid citation does not discard other fully verified recommendations (0.4267ms)
+✔ calendar converts UTC to Las Vegas independently of host timezone (12.9802ms)
+✔ calendar partitions each day exactly into sessions, open time, and transition buffers (1.3711ms)
+✔ empty selected days remain visible as open time and day filters preserve sessions (0.6564ms)
+✔ calendar expands its bounds to include early and late sessions without clipping (0.3334ms)
+✔ all four captured live personas retain every primary exactly once in the calendar (21.4879ms)
+✔ calendar export has exactly one event per primary with exact times, rooms, evidence, and sources (12.1257ms)
+✔ UTC export preserves Las Vegas times regardless of host timezone and handles explicit offsets (2.1695ms)
+✔ calendar text escaping and UTF-8 line folding preserve punctuation and prevent injected events (1.157ms)
+✔ live export omits saved labeling and keeps stable event IDs across downloads (15.0676ms)
+✔ empty agendas and invalid event times cannot produce a misleading calendar (0.3675ms)
+✔ catalog snapshot has unique valid occurrences, official sources, and unchanged public seat status (30.4356ms)
+✔ input rejects missing goals, invalid days, oversized and empty backgrounds (0.3557ms)
+✔ public access baseline excludes paid training, hackathons, and ancillary events (0.1524ms)
+✔ live candidate filtering excludes sessions that have already started (12.3106ms)
+✔ ten-minute transition buffer is enforced exactly (0.179ms)
+✔ scheduler prefers two valuable compatible sessions over one long session (0.7097ms)
+✔ backup may replace primary but must not conflict with remaining agenda (0.257ms)
+✔ unsupported goals produce gaps rather than unrelated sessions (0.0895ms)
+✔ repeated offerings do not appear twice in the agenda (0.0898ms)
+✔ AI output cannot invent session IDs, unsupported evidence or score dimensions (0.1571ms)
+✔ candidate retrieval respects days and finds each fixed persona relevant material (50.3883ms)
+✔ AI request uses exact candidates and schema, with a deterministic validated result (29.6786ms)
+✔ missing credentials and provider failures stay explicit (29.1638ms)
+✔ 100 generated schedules and all their replacements satisfy the independent invariants (20.1368ms)
+ℹ tests 26
 ℹ suites 0
-ℹ pass 21
+ℹ pass 26
 ℹ fail 0
 ℹ cancelled 0
 ℹ skipped 0
 ℹ todo 0
-ℹ duration_ms 233.1111
+ℹ duration_ms 247.8857

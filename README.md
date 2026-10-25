@@ -29,7 +29,13 @@ This workspace's local server also recognizes the user-created credentials file 
 2. Keep Monday–Wednesday selected and review the editable goals.
 3. Select **Build my learning agenda**. Generation usually takes 25–40 seconds.
 4. Show the goal coverage, day filters, catalog evidence, and backup suggestions. Switch between **Agenda** and **Calendar** to see time blocks, free time, and transition buffers. Select a calendar block to open its details and backup.
-5. Download the agenda.
+5. Select **Download calendar (.ics)**. The file contains every primary session across all days, with rooms, learning rationale, source evidence, and backups in event notes. A day filter changes the view, not the export. The saved example exports with an explicit saved-example label.
+
+### Add the agenda to Outlook
+
+In Outlook on the web, open **Calendar → Add calendar → Upload from file**, choose `my-ai-world-agenda.ics`, select a destination calendar, and import. A separate conference calendar makes the imported plan easy to manage. Import it once; a file import does not automatically synchronize later changes. See [Microsoft's instructions](https://support.microsoft.com/en-us/outlook/import-or-subscribe-to-a-calendar-in-outlook-com-or-outlook-on-the-web).
+
+The export uses RFC 5545 iCalendar with absolute UTC start/end times, so a calendar displays the correct instant in its selected timezone. Event notes also state the Las Vegas conference time. Only primary sessions become events; backup options remain in notes to avoid adding conflicting appointments. Ten-minute transition allowances remain gaps between the actual session times. A calendar event does not reserve a seat. **Text agenda** and **Print** remain available.
 
 **Explore a saved example** loads a verified real AI response without another model call. It is explicitly labeled as a saved example. It is not a new customized response to edited inputs.
 
@@ -48,6 +54,7 @@ This workspace's local server also recognizes the user-created credentials file 
 
 - `public/`: static, responsive web app and verified session snapshot.
 - `public/calendar.mjs`: Las Vegas time conversion and calendar segments derived from the same primary agenda. Open time means unscheduled time in this plan. On small screens the days scroll horizontally inside the calendar; printing uses the complete agenda.
+- `public/calendar-export.mjs`: dependency-free iCalendar export with stable occurrence IDs, exact UTC times, escaped text, and UTF-8-safe line folding. Calendar files are generated in the browser without additional account access.
 - `api/plan.mjs`: Vercel-compatible server function. The API key stays server-side.
 - `lib/ai.mjs`: strict structured-output AI ranking. IDs are restricted to retrieved candidates. The model selects a numbered source excerpt; code supplies the original quote. Score dimensions must match the number of goals. Invalid suggestions are individually excluded, preserving verified ones; a wholly invalid response remains an explicit error.
 - `lib/planner.mjs`: input validation, balanced lexical retrieval (up to 72 candidates), deterministic schedule search, duplicate prevention, backups, and goal coverage.

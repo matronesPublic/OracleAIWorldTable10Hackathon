@@ -7,7 +7,7 @@ for(const url of [new URL('./.env.local',import.meta.url),new URL('../../work/.e
 }
 const {default:plan}=await import('./api/plan.mjs');const {default:status}=await import('./api/status.mjs');
 const types={'.html':'text/html','.css':'text/css','.mjs':'text/javascript','.json':'application/json','.svg':'image/svg+xml'};
-const allowed=new Set(['index.html','styles.css','calendar.css','app.mjs','calendar.mjs','data/sessions.json','data/demo-plan.json','favicon.svg']);
+const allowed=new Set(['index.html','styles.css','calendar.css','app.mjs','calendar.mjs','calendar-export.mjs','data/sessions.json','data/demo-plan.json','favicon.svg']);
 const server=http.createServer(async(req,res)=>{
  res.setHeader('X-Content-Type-Options','nosniff');res.setHeader('Referrer-Policy','same-origin');
  const pathname=new URL(req.url,'http://localhost').pathname;

@@ -3,6 +3,7 @@ import {validateInput,eligible,compatible,shortlist,validateRankings,makeAgenda,
 import {generatePlan} from '../lib/ai.mjs';import {personas} from './fixtures.mjs';
 import './evidence.test.mjs';
 import './calendar.test.mjs';
+import './calendar-export.test.mjs';
 const catalog=JSON.parse(await readFile(new URL('../public/data/sessions.json',import.meta.url),'utf8'));
 const input={profile:'A software developer learning about enterprise AI.',goals:['RAG','Security'],days:['2026-10-26']};
 function session(id,start,end,scores=[3,0],code=id){return {id,code,title:id,sessionId:code,date:'2026-10-26',start:`2026-10-26T${start}:00-07:00`,end:`2026-10-26T${end}:00-07:00`,type:'Learning Session',room:'Test room',description:'Relevant evidence from the catalog description.',goalScores:scores,reason:'This supports a concrete learning goal.',evidenceQuote:'Relevant evidence from the catalog',source:'https://example.org'};}
