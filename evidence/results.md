@@ -15,4 +15,12 @@ The user's Fusion/Cloud admin brief (AI Agents, AI Governance, AI Security) also
 
 Browser checks verified Agenda/Calendar switching, matching primary IDs, Monday filtering (four sessions in both views), and opening a session's compatible backup from the calendar. Calendar screenshots and browser check details accompany this report.
 
-Seat availability is unpublished. Deployment was deferred at the user’s request; the app remains local.
+Seat availability is unpublished.
+
+## Public deployment
+
+Production demo: https://my-ai-world-26.vercel.app/ (Vercel project `oracle-hackathon-team10/my-ai-world-26`).
+
+Unauthenticated checks returned 200 for the app, JavaScript modules, calendar CSS, catalog snapshot, and saved example. The status endpoint confirmed live AI configuration. Credential and server-source paths returned 404. The production Fusion/Cloud admin test returned 11 sessions, 11 compatible backups, all three goals supported, and zero conflicts in 25.9 seconds. Exact source details and evidence quotes passed independent verification. See `vercel-eval.json` and `vercel-live-plan.json`.
+
+The production browser flow also generated the agenda successfully. All 11 primary IDs matched between Agenda and Calendar. Filtering Monday left four sessions in either view; opening a calendar block exposed its compatible backup. At a 477px viewport, horizontal scrolling remained inside the calendar and the page did not overflow. No browser console errors were recorded. See `vercel-browser-checks.json` and `vercel-live.jpg`.

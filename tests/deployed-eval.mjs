@@ -1,0 +1,11 @@
+import assert from 'node:assert/strict';import {readFile,writeFile} from 'node:fs/promises';
+import {independentlyCheck} from './independent-checks.mjs';
+const base=process.argv[2];if(!/^https:\/\/[a-z0-9-]+\.vercel\.app$/.test(base||''))throw new Error('Supply the production vercel.app URL.');
+const out=new URL('../evidence/',import.meta.url);const results={evaluatedAt:new Date().toISOString(),base,checks:[]};
+for(const path of ['/','/app.mjs','/calendar.mjs','/calendar.css','/data/sessions.json','/data/demo-plan.json']){const r=await fetch(base+path,{signal:AbortSignal.timeout(20000)});assert.equal(r.status,200,path);assert.ok(!r.url.includes('vercel.com/login'),path+' must be accessible without Vercel authentication');const text=await r.text();assert.ok(text.length>100);results.checks.push({path,status:r.status});}
+const status=await (await fetch(base+'/api/status')).json();assert.equal(status.aiConfigured,true);results.aiConfigured=true;
+for(const path of ['/.env.local','/lib/ai.mjs','/server.mjs']){const r=await fetch(base+path);assert.equal(r.status,404,path);results.checks.push({path,status:r.status});}
+const input={profile:'I am an Oracle Fusion/ Oracle Cloud admin. Currently interested in ways that we can incorporate AI into our enterprise, with focus on agents and security.',goals:['AI Agents','AI Governance','AI Security'],days:['2026-10-26','2026-10-27','2026-10-28']};
+const started=Date.now();const r=await fetch(base+'/api/plan',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(input),signal:AbortSignal.timeout(65000)});const plan=await r.json();assert.equal(r.status,200,plan.error);assert.equal(plan.mode,'live');assert.ok(plan.sessions.length>0);const catalog=JSON.parse(await readFile(new URL('../public/data/sessions.json',import.meta.url),'utf8'));
+results.live={...independentlyCheck(plan,catalog),sessions:plan.sessions.length,backups:plan.sessions.filter(s=>s.backup).length,goals:plan.goals.map(g=>({goal:g.goal,status:g.status})),latencyMs:Date.now()-started,responseId:plan.responseId};
+await writeFile(new URL('vercel-live-plan.json',out),JSON.stringify(plan,null,2));await writeFile(new URL('vercel-eval.json',out),JSON.stringify(results,null,2));console.log(JSON.stringify(results));

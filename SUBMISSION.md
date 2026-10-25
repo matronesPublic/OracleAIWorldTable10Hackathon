@@ -24,7 +24,7 @@ The attendee can inspect the agenda as a list or a time-block calendar, filter d
 
 ## Demo access and a 90-second verification script
 
-**Current URL:** http://127.0.0.1:3000/ — local only, with no login. This URL is accessible on the host machine. It is **not an externally accessible judge demo**. Public deployment remains pending because the user requested a local version.
+**Public demo:** https://my-ai-world-26.vercel.app/ — no login required. The production URL was verified through unauthenticated requests. Source code: https://github.com/matronesPublic/OracleAIWorldTable10Hackathon.
 
 1. Enter this background: “I am an Oracle Fusion/ Oracle Cloud admin. Currently interested in ways that we can incorporate AI into our enterprise, with focus on agents and security.”
 2. Enter three lines: **AI Agents**, **AI Governance**, **AI Security**. Keep Monday–Wednesday selected.
@@ -34,7 +34,7 @@ The attendee can inspect the agenda as a list or a time-block calendar, filter d
 6. Select **Calendar**. Compare filled blocks, open time, and 10-minute transitions. Filter to Monday and select a block to inspect its compatible backup.
 7. Download the agenda or print it. **Explore a saved example** provides a clearly labeled, previously verified AI response if the provider is unavailable. It does not customize the saved response to new inputs.
 
-The latest browser run of the actual user's brief produced **11 sessions, 10 backups, three supported goals, and zero conflicts**. A separate recorded API run produced 11 sessions and 11 backups; recommendations can vary. “Supported” means relevant sessions are scheduled, not that learning mastery has been proven.
+The first public production run of the actual user's brief produced **11 sessions, 11 backups, three supported goals, and zero conflicts**, with a live AI response in 25.9 seconds. All session details, evidence quotes, transition gaps, and individual backup replacements passed independent checks against the snapshot. Recommendations can vary between calls. “Supported” means relevant sessions are scheduled, not that learning mastery has been proven.
 
 ## Code and technical proof
 
@@ -61,6 +61,6 @@ Potential durability would come from organizer integrations, better session and 
 
 ## Submission readiness
 
-Ready: working local app, live AI, captured catalog, verified schedules, backups, two schedule views, source code, test evidence, and demo instructions.
+Ready: working public demo URL, live AI, captured catalog, verified schedules, backups, two schedule views, source code, test evidence, and demo instructions.
 
-Pending: an externally reachable demo URL and broader user-demand evidence. Do not claim these have been completed.
+Pending: broader user-demand evidence, measured planning-time savings, and an organizer pilot. Do not claim these have been completed.

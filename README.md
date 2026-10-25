@@ -4,6 +4,8 @@ A minimal conference planner: tell it your professional background, up to three 
 
 Built for the Oracle AI World Hackathon. See [the submission brief](SUBMISSION.md) for the problem, target attendee, demo script, and known limitations, and [verification results](evidence/results.md) for the recorded checks.
 
+**Live demo:** https://my-ai-world-26.vercel.app/ — no login required. The public production endpoint passed a real AI request and independent catalog, timing, and backup checks. See [deployment evidence](evidence/vercel-eval.json).
+
 ![A live personalized schedule with session blocks, open time, and transitions](evidence/calendar-live.jpg)
 
 ## Run locally
@@ -60,6 +62,7 @@ npm test
 npm run eval
 node tests/negative-eval.mjs
 node tests/fusion-admin-eval.mjs
+node tests/deployed-eval.mjs https://my-ai-world-26.vercel.app
 ```
 
 Start the server before running live evals. Live evals call the configured AI provider and incur API usage. Set `APP_URL` to run them against a deployment. `evidence/` contains actual reports. Independent checks compare source details and quotes, test every backup replacement, enforce days and transition times, and check duplicate sessions and daily limits.
@@ -77,4 +80,4 @@ Recommendation quality rubric: relevance to the goal, fit for professional exper
 
 ## Preserved demo
 
-`../my-ai-world-demo-v1.zip` preserves the first passing live-AI slice. `../my-ai-world-verified-demo.zip` preserves the passing version before calendar changes. `../my-ai-world-calendar-demo.zip` contains the verified calendar and AI validation improvements. The archives contain the app and public catalog snapshot, without the API key.
+The development workspace retains separate ZIP archives of the first passing slice, verified agenda, and calendar version. They are not included in a repository clone. Git commits provide reproducible source snapshots; use `git archive HEAD` to export the checked-in app without credentials. The saved example remains available directly in the app.

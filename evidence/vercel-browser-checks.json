@@ -1,0 +1,47 @@
+{
+  "agendaCalendarParity": true,
+  "agendaSessionIds": [
+    "1789503097217001aUvG",
+    "1789540280920001tMLF",
+    "1789687462610001hLcN",
+    "1789688152162001RIH4",
+    "1789688284111001OIJq",
+    "1790048379461001D58g",
+    "1790180802913001IrGU",
+    "1790207366230001kkwG",
+    "1790372875202001zqmu",
+    "1790695611227001XjiO",
+    "1790981158405001bZGa"
+  ],
+  "calendarContentWidth": 598,
+  "calendarSessionIds": [
+    "1789503097217001aUvG",
+    "1789540280920001tMLF",
+    "1789687462610001hLcN",
+    "1789688152162001RIH4",
+    "1789688284111001OIJq",
+    "1790048379461001D58g",
+    "1790180802913001IrGU",
+    "1790207366230001kkwG",
+    "1790372875202001zqmu",
+    "1790695611227001XjiO",
+    "1790981158405001bZGa"
+  ],
+  "calendarViewportWidth": 373,
+  "dayColumns": 3,
+  "mode": "LIVE AI · VERIFIED TIMES",
+  "pageWidth": 462,
+  "summary": "11\nsessions selected\n3/3\ngoals supported\n0\nschedule conflicts\n11\nbackup options",
+  "url": "https://my-ai-world-26.vercel.app/",
+  "viewportWidth": 477,
+  "monday": {
+    "agendaSessions": 4,
+    "calendarSessions": 4,
+    "dayColumns": 1
+  },
+  "backup": {
+    "open": true,
+    "title": "Data Security for the AI Era: Defending Against AI-Powered Threats"
+  },
+  "consoleErrors": []
+}

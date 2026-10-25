@@ -1,0 +1,67 @@
+{
+  "evaluatedAt": "2026-10-25T22:07:57.479Z",
+  "base": "https://my-ai-world-26.vercel.app",
+  "checks": [
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/app.mjs",
+      "status": 200
+    },
+    {
+      "path": "/calendar.mjs",
+      "status": 200
+    },
+    {
+      "path": "/calendar.css",
+      "status": 200
+    },
+    {
+      "path": "/data/sessions.json",
+      "status": 200
+    },
+    {
+      "path": "/data/demo-plan.json",
+      "status": 200
+    },
+    {
+      "path": "/.env.local",
+      "status": 404
+    },
+    {
+      "path": "/lib/ai.mjs",
+      "status": 404
+    },
+    {
+      "path": "/server.mjs",
+      "status": 404
+    }
+  ],
+  "aiConfigured": true,
+  "live": {
+    "conflicts": 0,
+    "evidenceVerified": true,
+    "sourceDetailsVerified": true,
+    "backupsVerified": true,
+    "sessions": 11,
+    "backups": 11,
+    "goals": [
+      {
+        "goal": "AI Agents",
+        "status": "Supported"
+      },
+      {
+        "goal": "AI Governance",
+        "status": "Supported"
+      },
+      {
+        "goal": "AI Security",
+        "status": "Supported"
+      }
+    ],
+    "latencyMs": 25928,
+    "responseId": "resp_0892fb8a706c6a9e016ade7dc3d4ec87d28b0c00d77252b182"
+  }
+}
