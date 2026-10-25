@@ -2,23 +2,25 @@
 
 ## The problem and first user
 
-Oracle AI World attendees face an overwhelming planning task: hundreds of sessions may be relevant, but they need one useful schedule they can actually attend. Our catalog snapshot contains 764 scheduled entries. The attendee must work out which sessions fit their professional experience, which support their learning goals, and which fit together during their attending days.
+Any Oracle AI World attendee who wants a conference agenda aligned with their professional goals can use this app. Attendees arrive with different backgrounds and priorities: developers may want practical agent-building skills, architects may focus on enterprise AI security, database professionals may want vector search, and business leaders may want to understand AI adoption. Each needs a different plan from the same large session catalog.
 
-Our first real user is an Oracle Fusion / Oracle Cloud administrator interested in AI Agents, AI Governance, and AI Security. In their experience, the current Oracle session interface makes assembling that compatible personal schedule difficult. Their manual workflow is to search topics, read descriptions, compare competing times, choose between relevant sessions, and repeat those comparisons when a choice changes. The pain is the effort and uncertainty of turning a large catalog into a coherent plan.
+Our snapshot contains 764 scheduled entries. Today, the attendee must search topics, read descriptions, decide what fits their professional experience and learning goals, compare competing time slots, and assemble a schedule across their attending days. Changing one choice can require more searches and time comparisons. The current Oracle session interface makes that personal planning task overwhelming for our first user. Finding interesting sessions does not by itself produce a relevant schedule they can actually attend.
 
-Other administrators, developers, architects, and database professionals at the same conference face similar planning decisions. Conference attendees are our first users and the immediate community for further testing; organizers and enterprise learning teams are potential buyers to validate. We have one real user's stated need. The next demand test is to compare manual planning with our app for more attendees and measure planning effort and acceptance of the resulting agendas.
+Our first real example is an Oracle Fusion / Oracle Cloud administrator interested in AI Agents, AI Governance, and AI Security. That brief illustrates the shared planning problem; the app accepts any attendee's own professional background and goals. The optional profile presets are editable starting points.
+
+Our initial market is attendees at this conference, with conference organizers and enterprise learning teams as potential buyers to validate. The attendee community is the immediate audience for user testing. Our next validation is to compare manual planning with the app across varied professional backgrounds and measure planning effort and acceptance of the resulting agendas.
 
 ## Who else and who might buy
 
-The initial segment is Oracle administrators and technical practitioners attending this large, multi-track conference with several specific learning objectives. Architects, developers, and database professionals are adjacent users tested with fixed briefs. Those tests establish software behavior, not market demand.
+The first user community is **Oracle AI World attendees across professional backgrounds**. Each person supplies their own profile, learning goals, and attending days. Developer, architect, database professional, and business leader presets help people start; custom input makes the workflow available to other attendees too. Tests across several professional briefs verify software behavior, while broader demand still needs attendee testing.
 
-A future buyer hypothesis is a conference organizer or an enterprise learning team that wants attendees to make better use of conference attendance. We have no validated market-size estimate, paid pilots, customer interviews beyond the initial user, or revenue claim. The next validation should compare this planner with manual catalog planning for several attendees and ask organizers whether they would pilot it.
+The initial market is deliberately one conference and its session catalog. The attendee community offers a concrete setting to test acceptance of plans and compare planning effort with the existing catalog workflow. A future buyer hypothesis is a conference organizer or enterprise learning team that wants attendees to make better use of the event. The next commercial proof is an organizer pilot and evidence that attendees find the recommendations useful.
 
 ## The product and before/after
 
 **Before:** the attendee faces hundreds of session choices and must manually decide what is relevant, resolve competing time slots, and build a schedule across their attending days. Changing one choice can require more catalog searches and time comparisons.
 
-**After:** enter a professional background, up to three conference learning goals or topics, and attending days; receive a customized, conflict-free schedule targeted to that brief. The app uses live AI to match actual catalog entries, then code constructs a schedule with a 10-minute transition buffer and at most four sessions per day. Each primary has a reason, a verbatim catalog excerpt, room and time, and an official source link. A compatible backup appears when one is available. Goal gaps are explicit.
+**After:** any attendee enters their own professional background, up to three conference learning goals or topics, and attending days; receive a customized, conflict-free schedule targeted to that brief. The app uses live AI to match actual catalog entries, then code constructs a schedule with a 10-minute transition buffer and at most four sessions per day. Each primary has a reason, a verbatim catalog excerpt, room and time, and an official source link. A compatible backup appears when one is available. Goal gaps are explicit.
 
 The attendee can inspect the agenda as a list or a time-block calendar, filter days, see unscheduled time, and print or download the plan. Seat availability is not published by the catalog, so the app labels it unknown and makes no reservation claims.
 
