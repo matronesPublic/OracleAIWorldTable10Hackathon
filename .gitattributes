@@ -2,3 +2,5 @@
 *.jpg binary
 *.png binary
 *.zip binary
+# Preserve RFC 5545 CRLF bytes in repository archives.
+*.ics binary

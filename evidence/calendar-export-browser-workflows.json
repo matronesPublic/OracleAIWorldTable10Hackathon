@@ -1,0 +1,22 @@
+[
+  {
+    "id": "saved-learning-agenda",
+    "passed": true,
+    "steps": 14
+  },
+  {
+    "id": "catalog-evidence-and-backup",
+    "passed": true,
+    "steps": 15
+  },
+  {
+    "id": "calendar-open-time-and-details",
+    "passed": true,
+    "steps": 14
+  },
+  {
+    "id": "calendar-handoff",
+    "passed": true,
+    "steps": 12
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-10-25T22:51:12.469Z",
+  "productionUrl": "https://my-ai-world-26.vercel.app/",
+  "workflowCount": 4,
+  "verifiedSteps": 55,
+  "allPassed": true,
+  "publicDownloadVerified": true,
+  "dayFilter": "Monday",
+  "displayedSessions": 3,
+  "exportedSessions": 10,
+  "mobile": {
+    "buttonWidth": 337.1458435058594,
+    "exportPanelWidth": 374.4791870117187,
+    "exportSummary": "10 selected sessions · All days · Outlook-compatible file",
+    "importHelpOpen": true,
+    "pageWidth": 462,
+    "viewport": 477
+  },
+  "temporaryViewportReset": true,
+  "outlookAccountImportTested": false
+}

@@ -1,6 +1,6 @@
 # My AI World 26
 
-A minimal conference planner: tell it your professional background, up to three learning goals, and attending days. Live AI ranks verified Oracle AI World 2026 catalog entries. Scheduling code builds a non-overlapping agenda with a 10-minute transition buffer and up to four sessions per day. Each recommendation includes an explanation, exact catalog evidence, room, time, and official source link. Compatible backup sessions are shown when available.
+Oracle AI World offers hundreds of session choices. Attendees must decide which match their experience and goals, then make those choices fit together in time. My AI World 26 turns that planning task into a customized, conflict-free learning agenda: enter your professional background, up to three conference goals, and attending days. Live AI ranks verified Oracle AI World 2026 catalog entries. Scheduling code builds a non-overlapping agenda with a 10-minute transition buffer and up to four sessions per day. Each recommendation includes an explanation, exact catalog evidence, room, time, and official source link. Compatible backup sessions are shown when available.
 
 Built for the Oracle AI World Hackathon. See [the submission brief](SUBMISSION.md) for the problem, target attendee, demo script, and known limitations, and [verification results](evidence/results.md) for the recorded checks.
 
@@ -36,6 +36,8 @@ This workspace's local server also recognizes the user-created credentials file 
 In Outlook on the web, open **Calendar → Add calendar → Upload from file**, choose `my-ai-world-agenda.ics`, select a destination calendar, and import. A separate conference calendar makes the imported plan easy to manage. Import it once; a file import does not automatically synchronize later changes. See [Microsoft's instructions](https://support.microsoft.com/en-us/outlook/import-or-subscribe-to-a-calendar-in-outlook-com-or-outlook-on-the-web).
 
 The export uses RFC 5545 iCalendar with absolute UTC start/end times, so a calendar displays the correct instant in its selected timezone. Event notes also state the Las Vegas conference time. Only primary sessions become events; backup options remain in notes to avoid adding conflicting appointments. Ten-minute transition allowances remain gaps between the actual session times. A calendar event does not reserve a seat. **Text agenda** and **Print** remain available.
+
+The actual production download was verified with an independent iCalendar parser: [export evidence](evidence/calendar-export-eval.json), [example calendar file](evidence/exported-example.ics), and [four browser verification workflows](evidence/browser-verification.json). Import into an authenticated Outlook account is a manual acceptance step.
 
 **Explore a saved example** loads a verified real AI response without another model call. It is explicitly labeled as a saved example. It is not a new customized response to edited inputs.
 

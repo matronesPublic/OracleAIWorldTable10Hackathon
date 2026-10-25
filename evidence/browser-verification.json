@@ -1,0 +1,375 @@
+{
+  "appName": "My AI World 26",
+  "baseUrl": "https://my-ai-world-26.vercel.app/",
+  "auth": {
+    "required": false,
+    "loginPath": "",
+    "username": "",
+    "password": "",
+    "usernameSelector": "",
+    "passwordSelector": "",
+    "submitSelector": "",
+    "successUrlPattern": "",
+    "successText": []
+  },
+  "globalRules": {
+    "maxStepTimeSeconds": 45,
+    "waitForNetworkIdle": false,
+    "notes": [
+      "The deterministic workflows use Explore a saved example (#load-demo), a previously verified real AI response bundled with the app. It loads its developer background and three learning goals automatically. It is explicitly labeled SAVED EXAMPLE · REAL AI; it is not fresh personalization for edited inputs.",
+      "The fixed example contains 10 primary sessions, three supported goals, zero reported schedule conflicts, and seven backups. It remains usable after the conference dates. These workflows require no live OpenAI call.",
+      "Every workflow starts at / and reloads the same saved example independently. All displayed session times are Las Vegas PDT, irrespective of the browser timezone.",
+      "Compare text with whitespace normalized. Official-session links are asserted without opening them; keep navigation on the submitted app origin. Download and Print controls are checked without triggering a file download or print dialog.",
+      "Seat availability not published is expected. Backups are validated as individual replacements for their primary; simultaneous replacement of several primaries is outside this demo."
+    ]
+  },
+  "workflows": [
+    {
+      "id": "saved-learning-agenda",
+      "name": "Inspect a verified personalized learning agenda",
+      "purpose": "Proves the saved real AI example links three professional learning goals to a populated session agenda with deterministic summary metrics and real session times.",
+      "startPath": "/",
+      "steps": [
+        {
+          "action": "goto",
+          "value": "/"
+        },
+        {
+          "action": "click",
+          "selector": "#load-demo"
+        },
+        {
+          "action": "waitForText",
+          "value": "SAVED EXAMPLE · REAL AI"
+        },
+        {
+          "action": "assertVisible",
+          "selector": "#plan-output"
+        },
+        {
+          "action": "assertText",
+          "selector": "#plan-summary",
+          "value": "10\nsessions selected\n3/3\ngoals supported\n0\nschedule conflicts\n7\nbackup options"
+        },
+        {
+          "action": "assertText",
+          "selector": "#goal-coverage",
+          "value": "Build RAG applications with vector search"
+        },
+        {
+          "action": "assertText",
+          "selector": "#goal-coverage",
+          "value": "Develop and deploy AI agents on OCI"
+        },
+        {
+          "action": "assertText",
+          "selector": "#goal-coverage",
+          "value": "Evaluate and govern production AI systems"
+        },
+        {
+          "action": "assertText",
+          "selector": "#session-list article[data-session-id=\"1789501515711001gtrq\"] h4",
+          "value": "Why Your Vector Query is Slow: Inside Look to Oracle Optimizer"
+        },
+        {
+          "action": "assertText",
+          "selector": "#session-list article[data-session-id=\"1789501515711001gtrq\"] .session-time > b",
+          "value": "11:30 AM"
+        },
+        {
+          "action": "assertText",
+          "selector": "#session-list article[data-session-id=\"1789501515711001gtrq\"] .session-time > span",
+          "value": "12:15 PM"
+        },
+        {
+          "action": "assertText",
+          "selector": "#snapshot-label",
+          "value": "764 session entries"
+        },
+        {
+          "action": "assertVisible",
+          "selector": "#download"
+        },
+        {
+          "action": "assertVisible",
+          "selector": "#print"
+        }
+      ],
+      "success": {
+        "requiredUrlPattern": "^https://my-ai-world-26\\.vercel\\.app/(?:[?#].*)?$",
+        "allowedUrlPatterns": [],
+        "allText": [
+          "SAVED EXAMPLE · REAL AI",
+          "Build RAG applications with vector search",
+          "Develop and deploy AI agents on OCI",
+          "Evaluate and govern production AI systems"
+        ],
+        "anyText": [],
+        "visibleSelectors": [
+          "#plan-output",
+          "#goal-coverage",
+          "#session-list article[data-session-id=\"1789501515711001gtrq\"]",
+          "#download",
+          "#print"
+        ]
+      }
+    },
+    {
+      "id": "catalog-evidence-and-backup",
+      "name": "Inspect catalog evidence and a compatible backup",
+      "purpose": "Proves recommendations expose their exact source evidence and a real alternative that fits around the remaining Monday primary sessions.",
+      "startPath": "/",
+      "steps": [
+        {
+          "action": "goto",
+          "value": "/"
+        },
+        {
+          "action": "click",
+          "selector": "#load-demo"
+        },
+        {
+          "action": "waitForText",
+          "value": "SAVED EXAMPLE · REAL AI"
+        },
+        {
+          "action": "click",
+          "selector": "#day-tabs button[data-day=\"2026-10-26\"]"
+        },
+        {
+          "action": "assertVisible",
+          "selector": "#day-tabs button[data-day=\"2026-10-26\"][aria-pressed=\"true\"]"
+        },
+        {
+          "action": "assertText",
+          "selector": "#session-list article[data-session-id=\"1789501515711001gtrq\"] .session-time > span",
+          "value": "12:15 PM"
+        },
+        {
+          "action": "assertText",
+          "selector": "#session-list article[data-session-id=\"1789501679132001g60N\"] .session-time > b",
+          "value": "3:15 PM"
+        },
+        {
+          "action": "click",
+          "selector": "#session-list article[data-session-id=\"1789938190083001tOG4\"] details.evidence > summary"
+        },
+        {
+          "action": "assertText",
+          "selector": "#session-list article[data-session-id=\"1789938190083001tOG4\"] details.evidence[open] blockquote",
+          "value": "You will understand how to connect structured and unstructured data, build an agent flow with retrieval-augmented generation (RAG), and prepare it for enterprise workflows."
+        },
+        {
+          "action": "assertVisible",
+          "selector": "#session-list article[data-session-id=\"1789938190083001tOG4\"] .session-bottom a[href=\"https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=BOO2196\"]"
+        },
+        {
+          "action": "click",
+          "selector": "#session-list article[data-session-id=\"1789938190083001tOG4\"] details.backup > summary"
+        },
+        {
+          "action": "assertText",
+          "selector": "#session-list article[data-session-id=\"1789938190083001tOG4\"] details.backup[open] h5",
+          "value": "Agents in Action: How KPMG Deploys Fusion Agentic Apps at Scale"
+        },
+        {
+          "action": "assertText",
+          "selector": "#session-list article[data-session-id=\"1789938190083001tOG4\"] details.backup[open] .backup-body",
+          "value": "12:45 PM–1:30 PM"
+        },
+        {
+          "action": "assertText",
+          "selector": "#session-list article[data-session-id=\"1789938190083001tOG4\"] .backup-check",
+          "value": "Fits your agenda ✓"
+        },
+        {
+          "action": "assertText",
+          "selector": "#session-list article[data-session-id=\"1789938190083001tOG4\"] details.backup[open] small",
+          "value": "This replaces the primary above. Seat availability is also unpublished."
+        }
+      ],
+      "success": {
+        "requiredUrlPattern": "^https://my-ai-world-26\\.vercel\\.app/(?:[?#].*)?$",
+        "allowedUrlPatterns": [],
+        "allText": [
+          "Build Enterprise AI That Works: From Enterprise Data to Agentic Applications",
+          "Agents in Action: How KPMG Deploys Fusion Agentic Apps at Scale",
+          "Seat availability not published"
+        ],
+        "anyText": [],
+        "visibleSelectors": [
+          "#session-list article[data-session-id=\"1789938190083001tOG4\"] details.evidence[open] blockquote",
+          "#session-list article[data-session-id=\"1789938190083001tOG4\"] details.backup[open] .backup-body",
+          "#day-tabs button[data-day=\"2026-10-26\"][aria-pressed=\"true\"]"
+        ]
+      }
+    },
+    {
+      "id": "calendar-open-time-and-details",
+      "name": "Explore time blocks, transition buffers, and open time",
+      "purpose": "Proves the Monday agenda becomes an interactive time-block calendar with a known open interval, a transition stripe, and session details reached by selecting a block.",
+      "startPath": "/",
+      "steps": [
+        {
+          "action": "goto",
+          "value": "/"
+        },
+        {
+          "action": "click",
+          "selector": "#load-demo"
+        },
+        {
+          "action": "waitForText",
+          "value": "SAVED EXAMPLE · REAL AI"
+        },
+        {
+          "action": "click",
+          "selector": "#day-tabs button[data-day=\"2026-10-26\"]"
+        },
+        {
+          "action": "click",
+          "selector": "#view-tabs button[data-view=\"calendar\"]"
+        },
+        {
+          "action": "assertVisible",
+          "selector": "#calendar-view"
+        },
+        {
+          "action": "assertText",
+          "selector": "#calendar-grid .calendar-day-title",
+          "value": "Monday, Oct 26"
+        },
+        {
+          "action": "assertText",
+          "selector": "#calendar-grid button[data-calendar-session=\"1789501515711001gtrq\"] .calendar-session-time",
+          "value": "11:30 AM–12:15 PM"
+        },
+        {
+          "action": "assertVisible",
+          "selector": "#calendar-grid button[data-calendar-session=\"1789501515711001gtrq\"] + .calendar-transition"
+        },
+        {
+          "action": "assertVisible",
+          "selector": "#calendar-grid .calendar-open[aria-label=\"Open time, 12:25 PM to 1:00 PM\"]"
+        },
+        {
+          "action": "click",
+          "selector": "#calendar-grid button[data-calendar-session=\"1789938190083001tOG4\"]"
+        },
+        {
+          "action": "assertText",
+          "selector": "#calendar-detail h4",
+          "value": "Build Enterprise AI That Works: From Enterprise Data to Agentic Applications"
+        },
+        {
+          "action": "assertText",
+          "selector": "#calendar-detail .session-time > b",
+          "value": "1:00 PM"
+        },
+        {
+          "action": "assertText",
+          "selector": "#calendar-detail .session-time > span",
+          "value": "3:00 PM"
+        }
+      ],
+      "success": {
+        "requiredUrlPattern": "^https://my-ai-world-26\\.vercel\\.app/(?:[?#].*)?$",
+        "allowedUrlPatterns": [],
+        "allText": [
+          "Selected session",
+          "Open time",
+          "10-min transition",
+          "Build Enterprise AI That Works: From Enterprise Data to Agentic Applications"
+        ],
+        "anyText": [],
+        "visibleSelectors": [
+          "#calendar-view",
+          "#view-tabs button[data-view=\"calendar\"][aria-pressed=\"true\"]",
+          "#calendar-grid button[data-calendar-session=\"1789938190083001tOG4\"]",
+          "#calendar-detail article[data-session-id=\"1789938190083001tOG4\"]"
+        ]
+      }
+    },
+    {
+      "id": "calendar-handoff",
+      "name": "Prepare the accepted agenda for Outlook",
+      "purpose": "Shows the concrete calendar handoff, export scope, and Outlook import instructions. Download controls are inspected without triggering external calendar access or file dialogs.",
+      "startPath": "/",
+      "steps": [
+        {
+          "action": "goto",
+          "value": "/"
+        },
+        {
+          "action": "click",
+          "selector": "#load-demo"
+        },
+        {
+          "action": "waitForText",
+          "value": "SAVED EXAMPLE · REAL AI"
+        },
+        {
+          "action": "assertVisible",
+          "selector": "#download-calendar"
+        },
+        {
+          "action": "assertText",
+          "selector": "#calendar-export-summary",
+          "value": "10 selected sessions · All days · Outlook-compatible file"
+        },
+        {
+          "action": "assertText",
+          "selector": "#calendar-export-example",
+          "value": "Exports this saved example. Build an agenda to export your own."
+        },
+        {
+          "action": "click",
+          "selector": "#day-tabs button[data-day=\"2026-10-26\"]"
+        },
+        {
+          "action": "assertText",
+          "selector": "#calendar-export-summary",
+          "value": "10 selected sessions · All days · Outlook-compatible file"
+        },
+        {
+          "action": "click",
+          "selector": "#calendar-import-help > summary"
+        },
+        {
+          "action": "assertText",
+          "selector": "#calendar-import-help[open]",
+          "value": "Calendar → Add calendar → Upload from file"
+        },
+        {
+          "action": "assertText",
+          "selector": "#calendar-import-help[open]",
+          "value": "my-ai-world-agenda.ics"
+        },
+        {
+          "action": "assertText",
+          "selector": ".calendar-export",
+          "value": "Backups stay in each event’s notes."
+        }
+      ],
+      "success": {
+        "requiredUrlPattern": "^https://my-ai-world-26\\.vercel\\.app/(?:[?#].*)?$",
+        "allowedUrlPatterns": [],
+        "allText": [
+          "Take your agenda with you",
+          "10 selected sessions · All days · Outlook-compatible file",
+          "Calendar → Add calendar → Upload from file",
+          "Exports this saved example. Build an agenda to export your own."
+        ],
+        "anyText": [],
+        "visibleSelectors": [
+          "#download-calendar",
+          "#calendar-import-help[open]",
+          "#day-tabs button[data-day=\"2026-10-26\"][aria-pressed=\"true\"]"
+        ]
+      }
+    }
+  ],
+  "manualReviewTriggers": [
+    "If judging requires proof of a newly generated customized response, review Build my learning agenda separately using the submitted Fusion/Cloud administrator brief, the three goals AI Agents / AI Governance / AI Security on separate lines, and Monday–Wednesday. Live generation depends on OpenAI and remaining conference dates; the saved-example workflows do not establish fresh personalization."
+  ]
+}

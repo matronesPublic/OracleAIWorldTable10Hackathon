@@ -2,11 +2,11 @@
 
 ## The problem and first user
 
-Our first user is an Oracle Fusion / Oracle Cloud administrator who wants to bring AI into their enterprise safely. Their stated learning goals are **AI Agents, AI Governance, and AI Security**. This is a real brief supplied during development, not a fabricated persona.
+Oracle AI World attendees face an overwhelming planning task: hundreds of sessions may be relevant, but they need one useful schedule they can actually attend. Our catalog snapshot contains 764 scheduled entries. The attendee must work out which sessions fit their professional experience, which support their learning goals, and which fit together during their attending days.
 
-Today, the attendee searches and filters the conference catalog, opens descriptions, compares times, and assembles an agenda manually. The October 25 snapshot contains **764 scheduled entries**. Finding relevant content is only part of the task: the attendee must also avoid overlaps, leave transition time, and find an alternative if a session becomes unavailable. The current workflow and its time cost have not yet been measured in a user study.
+Our first real user is an Oracle Fusion / Oracle Cloud administrator interested in AI Agents, AI Governance, and AI Security. In their experience, the current Oracle session interface makes assembling that compatible personal schedule difficult. Their manual workflow is to search topics, read descriptions, compare competing times, choose between relevant sessions, and repeat those comparisons when a choice changes. The pain is the effort and uncertainty of turning a large catalog into a coherent plan.
 
-The consequence we aim to reduce is wasted conference time and an agenda that looks relevant but cannot be attended or leaves a learning goal unsupported. We have evidence of one attendee's need; broader demand and willingness to pay remain hypotheses.
+Other administrators, developers, architects, and database professionals at the same conference face similar planning decisions. Conference attendees are our first users and the immediate community for further testing; organizers and enterprise learning teams are potential buyers to validate. We have one real user's stated need. The next demand test is to compare manual planning with our app for more attendees and measure planning effort and acceptance of the resulting agendas.
 
 ## Who else and who might buy
 
@@ -16,9 +16,9 @@ A future buyer hypothesis is a conference organizer or an enterprise learning te
 
 ## The product and before/after
 
-**Before:** search individual topics, read descriptions, compare times, and maintain a personal agenda and fallback list.
+**Before:** the attendee faces hundreds of session choices and must manually decide what is relevant, resolve competing time slots, and build a schedule across their attending days. Changing one choice can require more catalog searches and time comparisons.
 
-**With My AI World:** enter a professional background, up to three goals, and attending days. The app uses live AI to match actual catalog entries, then code constructs a schedule with a 10-minute transition buffer and at most four sessions per day. Each primary has a reason, a verbatim catalog excerpt, room and time, and an official source link. A compatible backup appears when one is available. Goal gaps are explicit.
+**After:** enter a professional background, up to three conference learning goals or topics, and attending days; receive a customized, conflict-free schedule targeted to that brief. The app uses live AI to match actual catalog entries, then code constructs a schedule with a 10-minute transition buffer and at most four sessions per day. Each primary has a reason, a verbatim catalog excerpt, room and time, and an official source link. A compatible backup appears when one is available. Goal gaps are explicit.
 
 The attendee can inspect the agenda as a list or a time-block calendar, filter days, see unscheduled time, and print or download the plan. Seat availability is not published by the catalog, so the app labels it unknown and makes no reservation claims.
 
