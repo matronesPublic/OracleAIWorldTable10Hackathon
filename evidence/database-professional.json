@@ -1,0 +1,1044 @@
+{
+  "sessions": [
+    {
+      "id": "1790368137765001v9d5",
+      "sessionId": "1784671949704001eaNB",
+      "code": "LRN6044",
+      "title": "DBA in the Driver's Seat: Operating Autonomous AI Database",
+      "description": "What does the DBA role look like when the database handles much of its own routine administration? Autonomous AI Database gives DBAs the opportunity to spend less time maintaining individual databases and more time operating a secure, resilient, and efficient database service. This session explores what Oracle automates, what remains under DBA control, and where database expertise becomes even more valuable. Learn how DBAs can govern access, protect sensitive information, manage development and testing environments, oversee performance and workloads, plan for business continuity, and control resource consumption across the database estate.",
+      "type": "Learning Session",
+      "date": "2026-10-26",
+      "start": "2026-10-26T15:15:00.000Z",
+      "end": "2026-10-26T16:00:00.000Z",
+      "room": "Galileo 906, Level 1",
+      "capacity": 144,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6044",
+      "attributes": [
+        "Learning Session",
+        "Oracle AI Database",
+        "Autonomous AI Database",
+        "Non-Industry Specific",
+        "Intermediate (1-5 yrs user of Oracle)",
+        "Database Administrator",
+        "In Person",
+        "Yes",
+        "Data Management",
+        "8:00 a.m. Monday, Oct 26",
+        "Monday, Oct 26"
+      ],
+      "retrievalScores": [
+        5,
+        5,
+        6
+      ],
+      "retrievalScore": 16.3,
+      "evidence": [
+        "What does the DBA role look like when the database handles much of its own routine administration?",
+        "Autonomous AI Database gives DBAs the opportunity to spend less time maintaining individual databases and more time operating a secure, resilient, and efficient database service.",
+        "This session explores what Oracle automates, what remains under DBA control, and where database expertise becomes even more valuable.",
+        "Learn how DBAs can govern access, protect sensitive information, manage development and testing environments, oversee performance and workloads, plan for business continuity, and control resource consumption across the database estate."
+      ],
+      "goalScores": [
+        0,
+        3,
+        2
+      ],
+      "reason": "Learn how DBAs govern access, protect sensitive information, and plan for business continuity across a database estate.",
+      "evidenceQuote": "Learn how DBAs can govern access, protect sensitive information, manage development and testing environments, oversee performance and workloads, plan for business continuity, and control resource consumption across the database estate.",
+      "backup": null
+    },
+    {
+      "id": "1789503073594001Xfqd",
+      "sessionId": "1781170306168001Aj8H",
+      "code": "LRN6009",
+      "title": "Build Multicloud AI Apps That Never Go Down with Globally Distributed Database",
+      "description": "Modern AI applications demand continuous availability, low latency, global scale, and the flexibility to run wherever data resides. In this session, learn how Oracle Globally Distributed Database delivers a single logical database across OCI, multicloud, hybrid, and on-premises environments. Explore proven patterns for placing data closer to users, scaling high-volume transactional workloads, and combining operational data with AI Vector Search to support intelligent applications. Leave with practical architectural guidance for building resilient, globally distributed AI applications while preserving SQL compatibility, operational simplicity, and control over data placement.",
+      "type": "Learning Session",
+      "date": "2026-10-26",
+      "start": "2026-10-26T18:30:00.000Z",
+      "end": "2026-10-26T19:15:00.000Z",
+      "room": "Galileo 1001, Level 1",
+      "capacity": 72,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6009",
+      "attributes": [
+        "Learning Session",
+        "Oracle AI Database",
+        "Multicloud",
+        "Oracle AI Database",
+        "Non-Industry Specific",
+        "Intermediate (1-5 yrs user of Oracle)",
+        "Developer",
+        "Database Administrator",
+        "In Person",
+        "Yes",
+        "Cloud Infrastructure",
+        "Data Management",
+        "Monday, Oct 26",
+        "11:00 a.m. Monday, Oct 26"
+      ],
+      "retrievalScores": [
+        7,
+        5,
+        7
+      ],
+      "retrievalScore": 19.15,
+      "evidence": [
+        "Modern AI applications demand continuous availability, low latency, global scale, and the flexibility to run wherever data resides.",
+        "In this session, learn how Oracle Globally Distributed Database delivers a single logical database across OCI, multicloud, hybrid, and on-premises environments.",
+        "Explore proven patterns for placing data closer to users, scaling high-volume transactional workloads, and combining operational data with AI Vector Search to support intelligent applications.",
+        "Leave with practical architectural guidance for building resilient, globally distributed AI applications while preserving SQL compatibility, operational simplicity, and control over data placement."
+      ],
+      "goalScores": [
+        2,
+        0,
+        3
+      ],
+      "reason": "Explore globally distributed database patterns for continuous availability alongside AI Vector Search workloads.",
+      "evidenceQuote": "Modern AI applications demand continuous availability, low latency, global scale, and the flexibility to run wherever data resides.",
+      "backup": {
+        "id": "1789501515711001gtrq",
+        "sessionId": "1784672927173001QiaW",
+        "code": "LRN6046",
+        "title": "Why Your Vector Query is Slow: Inside Look to Oracle Optimizer",
+        "description": "Vector search is transforming how applications retrieve and reason over data, but delivering high-performance AI-powered retrieval requires much more than a new index type. The Oracle Optimizer continues to evolve, recognizing vector access paths, estimating costs, and generating execution plans that seamlessly combine vector similarity search with traditional relational operations. Designed for developers and database specialists, this session explores how Oracle AI Database extends its cost-based optimization framework to support vector indexes and hybrid AI workloads.",
+        "type": "Learning Session",
+        "date": "2026-10-26",
+        "start": "2026-10-26T18:30:00.000Z",
+        "end": "2026-10-26T19:15:00.000Z",
+        "room": "Marco Polo 805, Level 1",
+        "capacity": 72,
+        "seatStatus": "not-published",
+        "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6046",
+        "attributes": [
+          "Learning Session",
+          "Oracle AI Database",
+          "Cloud Cost Optimization",
+          "Non-Industry Specific",
+          "Intermediate (1-5 yrs user of Oracle)",
+          "Developer",
+          "Tech IT Manager",
+          "Database Administrator",
+          "In Person",
+          "Yes",
+          "Monday, Oct 26",
+          "11:00 a.m. Monday, Oct 26"
+        ],
+        "retrievalScores": [
+          8,
+          1,
+          3
+        ],
+        "retrievalScore": 12.15,
+        "evidence": [
+          "Vector search is transforming how applications retrieve and reason over data, but delivering high-performance AI-powered retrieval requires much more than a new index type.",
+          "The Oracle Optimizer continues to evolve, recognizing vector access paths, estimating costs, and generating execution plans that seamlessly combine vector similarity search with traditional relational operations.",
+          "Designed for developers and database specialists, this session explores how Oracle AI Database extends its cost-based optimization framework to support vector indexes and hybrid AI workloads."
+        ],
+        "goalScores": [
+          2,
+          0,
+          0
+        ],
+        "reason": "Learn how the optimizer plans vector access paths and hybrid retrieval that combines vector search with relational operations.",
+        "evidenceQuote": "Designed for developers and database specialists, this session explores how Oracle AI Database extends its cost-based optimization framework to support vector indexes and hybrid AI workloads."
+      }
+    },
+    {
+      "id": "1789501538634001H0k4",
+      "sessionId": "1786480463118001WdhR",
+      "code": "LRN6090",
+      "title": "Ask Your Database Anything: Generative AI with Select AI and OCI",
+      "description": "Generative AI is transforming how organizations interact with enterprise data. Instead of relying solely on SQL or predefined dashboards, users can ask questions in natural language and receive insights based on enterprise data. This session explores how developers and architects can build conversational data applications using Oracle Autonomous AI Database Select AI, and OCI Generative AI. Learn how Select AI translates natural language questions into SQL, integrates enterprise data with large language models, and supports retrieval-augmented generation (RAG) to generate, context-aware responses grounded in structured data.",
+      "type": "Learning Session",
+      "date": "2026-10-26",
+      "start": "2026-10-26T19:45:00.000Z",
+      "end": "2026-10-26T20:30:00.000Z",
+      "room": "Galileo 904, Level 1",
+      "capacity": 144,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6090",
+      "attributes": [
+        "Learning Session",
+        "Oracle AI Database",
+        "AI",
+        "Al Agents",
+        "Oracle AI Database",
+        "Non-Industry Specific",
+        "Intermediate (1-5 yrs user of Oracle)",
+        "Developer",
+        "Tech IT Manager",
+        "Database Administrator",
+        "In Person",
+        "Yes",
+        "Data Management",
+        "Developer Technology",
+        "12:00 p.m. Monday, Oct 26",
+        "Monday, Oct 26"
+      ],
+      "retrievalScores": [
+        9,
+        5,
+        5
+      ],
+      "retrievalScore": 19.3,
+      "evidence": [
+        "Generative AI is transforming how organizations interact with enterprise data.",
+        "Instead of relying solely on SQL or predefined dashboards, users can ask questions in natural language and receive insights based on enterprise data.",
+        "This session explores how developers and architects can build conversational data applications using Oracle Autonomous AI Database Select AI, and OCI Generative AI.",
+        "Learn how Select AI translates natural language questions into SQL, integrates enterprise data with large language models, and supports retrieval-augmented generation (RAG) to generate, context-aware responses grounded in structured data."
+      ],
+      "goalScores": [
+        3,
+        1,
+        0
+      ],
+      "reason": "Learn how Select AI integrates enterprise data with LLMs and supports RAG grounded in structured data.",
+      "evidenceQuote": "Learn how Select AI translates natural language questions into SQL, integrates enterprise data with large language models, and supports retrieval-augmented generation (RAG) to generate, context-aware responses grounded in structured data.",
+      "backup": {
+        "id": "1789501633253001X0Tl",
+        "sessionId": "1785080219920001LyCy",
+        "code": "LRN6057",
+        "title": "Inside Oracle’s AI-Assisted Approach to Database Software Security",
+        "description": "How is Oracle using AI to strengthen database software security? Go inside an engineering approach that combines frontier AI models, deep database expertise and established security testing to find issues and deliver validated fixes. Explore how this work also improves product quality and supports timely protection across cloud and on-premises environments, including Autonomous AI Database. Learn what this means for customers keeping protection current while assessing application impacts and minimizing disruption.",
+        "type": "Learning Session",
+        "date": "2026-10-26",
+        "start": "2026-10-26T19:45:00.000Z",
+        "end": "2026-10-26T20:30:00.000Z",
+        "room": "Marco Polo 802, Level 1",
+        "capacity": 72,
+        "seatStatus": "not-published",
+        "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6057",
+        "attributes": [
+          "Learning Session",
+          "Oracle AI Database",
+          "Security",
+          "Multicloud",
+          "Oracle AI Database",
+          "Non-Industry Specific",
+          "Intermediate (1-5 yrs user of Oracle)",
+          "Tech Executive",
+          "Tech IT Manager",
+          "Database Administrator",
+          "In Person",
+          "Yes",
+          "Cloud Infrastructure",
+          "Data Management",
+          "12:00 p.m. Monday, Oct 26",
+          "Monday, Oct 26"
+        ],
+        "retrievalScores": [
+          5,
+          11,
+          5
+        ],
+        "retrievalScore": 21.15,
+        "evidence": [
+          "How is Oracle using AI to strengthen database software security?",
+          "Go inside an engineering approach that combines frontier AI models, deep database expertise and established security testing to find issues and deliver validated fixes.",
+          "Explore how this work also improves product quality and supports timely protection across cloud and on-premises environments, including Autonomous AI Database.",
+          "Learn what this means for customers keeping protection current while assessing application impacts and minimizing disruption."
+        ],
+        "goalScores": [
+          0,
+          2,
+          1
+        ],
+        "reason": "Understand Oracle's security testing and validated fixes, including protection across cloud and on-premises databases.",
+        "evidenceQuote": "Explore how this work also improves product quality and supports timely protection across cloud and on-premises environments, including Autonomous AI Database."
+      }
+    },
+    {
+      "id": "1789501679132001g60N",
+      "sessionId": "1785276266114001jmHT",
+      "code": "LRN6064",
+      "title": "Build Trusted Apps Faster with New AI Features in Oracle APEX",
+      "description": "Oracle APEX 26.2 introduces powerful built-in AI capabilities that enable developers and users to interact with data in more natural, intelligent ways. In this session, explore how APEX transforms applications with natural language interfaces, conversational AI, intelligent dashboards, and automated data summarization. Learn how AI agents and AI tools enable LLMs to securely retrieve relevant data through enterprise data access controls, execute agentic workflows, and interact through AI-powered widgets and reports. See how retrieval-augmented generation (RAG) and AI Vector Search in Oracle AI Database help deliver accurate, relevant, and context-aware responses grounded in private enterprise data.",
+      "type": "Learning Session",
+      "date": "2026-10-26",
+      "start": "2026-10-26T22:15:00.000Z",
+      "end": "2026-10-26T23:00:00.000Z",
+      "room": "Galileo 907, Level 1",
+      "capacity": 72,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6064",
+      "attributes": [
+        "Learning Session",
+        "Oracle AI Database",
+        "AI",
+        "Vector Search",
+        "Autonomous AI Database",
+        "Developer Technologies",
+        "Non-Industry Specific",
+        "Intermediate (1-5 yrs user of Oracle)",
+        "Developer",
+        "Tech Executive",
+        "Business Executive",
+        "Business End User",
+        "In Person",
+        "Yes",
+        "Data Management",
+        "Developer Technology",
+        "3:00 p.m. Monday, Oct 26",
+        "Monday, Oct 26"
+      ],
+      "retrievalScores": [
+        7,
+        1,
+        1
+      ],
+      "retrievalScore": 9.45,
+      "evidence": [
+        "2 introduces powerful built-in AI capabilities that enable developers and users to interact with data in more natural, intelligent ways.",
+        "In this session, explore how APEX transforms applications with natural language interfaces, conversational AI, intelligent dashboards, and automated data summarization.",
+        "Learn how AI agents and AI tools enable LLMs to securely retrieve relevant data through enterprise data access controls, execute agentic workflows, and interact through AI-powered widgets and reports.",
+        "See how retrieval-augmented generation (RAG) and AI Vector Search in Oracle AI Database help deliver accurate, relevant, and context-aware responses grounded in private enterprise data."
+      ],
+      "goalScores": [
+        3,
+        2,
+        0
+      ],
+      "reason": "Explore APEX applications using RAG and Vector Search to deliver responses grounded in private data with enterprise access controls.",
+      "evidenceQuote": "See how retrieval-augmented generation (RAG) and AI Vector Search in Oracle AI Database help deliver accurate, relevant, and context-aware responses grounded in private enterprise data.",
+      "backup": {
+        "id": "1790105307894001MLdP",
+        "sessionId": "1784567626679001aOex",
+        "code": "LRN6036",
+        "title": "AI and ML in your database: What's New and What's Next",
+        "description": "Join this session to explore what’s new and what’s next for AI and machine learning in Oracle Autonomous AI Database and Oracle AI Database, with a focus on Oracle Select AI, the Select AI Agent framework, built-in MCP and A2A Server capabilities, and Oracle Machine Learning. Learn how these capabilities help developers and data teams build AI-native applications with enterprise-grade security and governance capabilities, develop in-database machine learning solutions, and enable organizations to keep sensitive data in the database when appropriate.",
+        "type": "Learning Session",
+        "date": "2026-10-26",
+        "start": "2026-10-26T22:15:00.000Z",
+        "end": "2026-10-26T23:00:00.000Z",
+        "room": "Titian 2204, Level 2",
+        "capacity": 158,
+        "seatStatus": "not-published",
+        "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6036",
+        "attributes": [
+          "Learning Session",
+          "Oracle AI Database",
+          "AI",
+          "Al Agents",
+          "Autonomous AI Database",
+          "Oracle AI Database",
+          "Non-Industry Specific",
+          "Intermediate (1-5 yrs user of Oracle)",
+          "Developer",
+          "Tech IT Manager",
+          "Business Manager",
+          "Database Administrator",
+          "In Person",
+          "Yes",
+          "Data Management",
+          "Developer Technology",
+          "3:00 p.m. Monday, Oct 26",
+          "Monday, Oct 26"
+        ],
+        "retrievalScores": [
+          5,
+          7,
+          5
+        ],
+        "retrievalScore": 17.45,
+        "evidence": [
+          "Join this session to explore what’s new and what’s next for AI and machine learning in Oracle Autonomous AI Database and Oracle AI Database, with a focus on Oracle Select AI, the Select AI Agent framework, built-in MCP and A2A Server capabilities, and Oracle Machine Learning.",
+          "Learn how these capabilities help developers and data teams build AI-native applications with enterprise-grade security and governance capabilities, develop in-database machine learning solutions, and enable organizations to keep sensitive data in the database when appropriate."
+        ],
+        "goalScores": [
+          1,
+          3,
+          0
+        ],
+        "reason": "Explore database AI capabilities with enterprise-grade security and governance, including keeping sensitive data in the database.",
+        "evidenceQuote": "Learn how these capabilities help developers and data teams build AI-native applications with enterprise-grade security and governance capabilities, develop in-database machine learning solutions, and enable organizations to keep sensitive data in the database when appropriate."
+      }
+    },
+    {
+      "id": "1790048741477001ZvEq",
+      "sessionId": "1786404747295001P6WP",
+      "code": "LRN2424",
+      "title": "Stay Secure and Online: AI Database Security & Resilience in a Multicloud World",
+      "description": "Explore approaches for designing secure, highly available, and resilient AI Database architectures across AWS, Google Cloud, Microsoft Azure, and OCI. Learn how innovations from Oracle and its hyperscaler partners improve security and resilience, from Maximum Availability Architecture (MAA) and cross-region disaster recovery to automatic patching. See how identity, encryption, and access controls protect data, AI agents, and AI-driven applications across clouds. Explore best practices for reducing risk, proving recovery, maintaining continuous operations, and building security and resilience into your multicloud AI Database strategy by design.",
+      "type": "Learning Session",
+      "date": "2026-10-27",
+      "start": "2026-10-27T15:00:00.000Z",
+      "end": "2026-10-27T15:45:00.000Z",
+      "room": "Galileo 1001, Level 1",
+      "capacity": 72,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN2424",
+      "attributes": [
+        "Learning Session",
+        "Oracle Cloud Infrastructure",
+        "Oracle Cloud Infrastructure",
+        "Multicloud",
+        "Migration and Modernization",
+        "Non-Industry Specific",
+        "Intermediate (1-5 yrs user of Oracle)",
+        "Developer",
+        "Tech Executive",
+        "Tech End User",
+        "Tech IT Manager",
+        "Database Administrator",
+        "In Person",
+        "Yes",
+        "Cloud Infrastructure",
+        "Data Management",
+        "8:00 a.m. Tuesday, Oct 27",
+        "Tuesday, Oct 27"
+      ],
+      "retrievalScores": [
+        5,
+        11,
+        7
+      ],
+      "retrievalScore": 23.15,
+      "evidence": [
+        "Explore approaches for designing secure, highly available, and resilient AI Database architectures across AWS, Google Cloud, Microsoft Azure, and OCI.",
+        "Learn how innovations from Oracle and its hyperscaler partners improve security and resilience, from Maximum Availability Architecture (MAA) and cross-region disaster recovery to automatic patching.",
+        "See how identity, encryption, and access controls protect data, AI agents, and AI-driven applications across clouds.",
+        "Explore best practices for reducing risk, proving recovery, maintaining continuous operations, and building security and resilience into your multicloud AI Database strategy by design."
+      ],
+      "goalScores": [
+        0,
+        3,
+        3
+      ],
+      "reason": "Learn multicloud security controls, disaster recovery, and resilience practices for continuous operations.",
+      "evidenceQuote": "Explore best practices for reducing risk, proving recovery, maintaining continuous operations, and building security and resilience into your multicloud AI Database strategy by design.",
+      "backup": {
+        "id": "1789502917309001HltF",
+        "sessionId": "1784671416283001a3aa",
+        "code": "LRN6043",
+        "title": "Best Practices: Upgrading to Oracle AI Database 26ai",
+        "description": "Planning to upgrade to Oracle AI Database 26ai? Learn directly from Oracle upgrade experts and customers who successfully completed the journey. This deep-dive session explores practical upgrade strategies including AutoUpgrade automation, multitenant migration, fallback planning, and post-upgrade optimization. Beyond documented best practices, the presenters share field-tested tips, troubleshooting techniques, lesser-known upgrade insights, and lessons learned from complex real-world customer projects. The session also highlights common mistakes, critical planning decisions, and practical recommendations for enterprise environments. Upgrade with confidence and unleash the latest AI and other capabilities in Oracle AI Database 26ai.",
+        "type": "Learning Session",
+        "date": "2026-10-27",
+        "start": "2026-10-27T15:00:00.000Z",
+        "end": "2026-10-27T15:45:00.000Z",
+        "room": "Marco Polo 705, Level 1",
+        "capacity": 144,
+        "seatStatus": "not-published",
+        "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6043",
+        "attributes": [
+          "Learning Session",
+          "Oracle AI Database",
+          "AI",
+          "Non-Industry Specific",
+          "Intermediate (1-5 yrs user of Oracle)",
+          "Database Administrator",
+          "In Person",
+          "Yes",
+          "Developer Technology",
+          "8:00 a.m. Tuesday, Oct 27",
+          "Tuesday, Oct 27"
+        ],
+        "retrievalScores": [
+          5,
+          5,
+          7
+        ],
+        "retrievalScore": 17.6,
+        "evidence": [
+          "Planning to upgrade to Oracle AI Database 26ai?",
+          "Learn directly from Oracle upgrade experts and customers who successfully completed the journey.",
+          "This deep-dive session explores practical upgrade strategies including AutoUpgrade automation, multitenant migration, fallback planning, and post-upgrade optimization.",
+          "Beyond documented best practices, the presenters share field-tested tips, troubleshooting techniques, lesser-known upgrade insights, and lessons learned from complex real-world customer projects.",
+          "The session also highlights common mistakes, critical planning decisions, and practical recommendations for enterprise environments.",
+          "Upgrade with confidence and unleash the latest AI and other capabilities in Oracle AI Database 26ai."
+        ],
+        "goalScores": [
+          0,
+          0,
+          3
+        ],
+        "reason": "Get practical upgrade guidance on AutoUpgrade, multitenant migration, fallback planning, and post-upgrade optimization.",
+        "evidenceQuote": "This deep-dive session explores practical upgrade strategies including AutoUpgrade automation, multitenant migration, fallback planning, and post-upgrade optimization."
+      }
+    },
+    {
+      "id": "1789503005714001gbaZ",
+      "sessionId": "1784566293778001lS0m",
+      "code": "LRN6035",
+      "title": "Trusted Agentic AI with Oracle AI Database",
+      "description": "Oracle AI Database has evolved into an AI-native agentic platform. Learn how agents can find relevant data using AI Vector Search across all kinds of data; how they can reason on data with database-native semantic knowledge, RAG, and agent flows; how they can remember key information with a unified agent memory core; how they can scale to the needs of any workload and any scale. Also learn how to protect your data from AI-era threats using deep data security and industrial-strength fault-tolerance; how to eliminate lock-in with multicloud, open standards, and AI for any data, wherever it resides. Finally, learn how to rapidly build and deploy enterprise agents with database-integrated agent builders and agentic solutions.",
+      "type": "Learning Session",
+      "date": "2026-10-27",
+      "start": "2026-10-27T17:30:00.000Z",
+      "end": "2026-10-27T18:15:00.000Z",
+      "room": "Titian 2206, Level 2",
+      "capacity": 158,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6035",
+      "attributes": [
+        "Learning Session",
+        "Oracle AI Database",
+        "AI",
+        "Vector Search",
+        "Al Agents",
+        "Oracle AI Database",
+        "Non-Industry Specific",
+        "Beginner (New user of Oracle)",
+        "Developer",
+        "Tech End User",
+        "Database Administrator",
+        "In Person",
+        "Oracle Database Page",
+        "Yes",
+        "Data Management",
+        "Developer Technology",
+        "10:00 a.m. Tuesday, Oct 27",
+        "Tuesday, Oct 27"
+      ],
+      "retrievalScores": [
+        8,
+        6,
+        5
+      ],
+      "retrievalScore": 19.3,
+      "evidence": [
+        "Oracle AI Database has evolved into an AI-native agentic platform.",
+        "Learn how agents can find relevant data using AI Vector Search across all kinds of data; how they can reason on data with database-native semantic knowledge, RAG, and agent flows; how they can remember key information with a unified agent memory core; how they can scale to the needs of any workload and any scale.",
+        "Also learn how to protect your data from AI-era threats using deep data security and industrial-strength fault-tolerance; how to eliminate lock-in with multicloud, open standards, and AI for any data, wherever it resides.",
+        "Finally, learn how to rapidly build and deploy enterprise agents with database-integrated agent builders and agentic solutions."
+      ],
+      "goalScores": [
+        3,
+        3,
+        2
+      ],
+      "reason": "Explore database-native RAG and Vector Search alongside data security and fault-tolerance capabilities.",
+      "evidenceQuote": "Learn how agents can find relevant data using AI Vector Search across all kinds of data; how they can reason on data with database-native semantic knowledge, RAG, and agent flows; how they can remember key information with a unified agent memory core; how they can scale to the needs of any workload and any scale.",
+      "backup": {
+        "id": "1790180923099001IXSY",
+        "sessionId": "1785523875482001RaJR",
+        "code": "THR2272",
+        "title": "Live Demo: AI Agents Accessing Enterprise Data Through Oracle AI Database@AWS",
+        "description": "What happens when AI agents can query, reason over, and act on your Oracle data in real time? In this live demo, see how AWS AI services on Amazon Bedrock connect agents to Oracle AI Database@AWS, retrieving structured and unstructured data via Oracle AI Database 26ai vector and graph search. Watch an agent answer complex business questions by combining data stores and vector embeddings in one operation—governed by Oracle's existing security and row-level access controls. A customer shares the use case behind this architecture: reducing days of manual reporting to minutes of agent-driven insight. Whether you run ERP, financials, or custom apps on Oracle, see how your database becomes an active participant in AI-driven decision making.",
+        "type": "Hub Theater",
+        "date": "2026-10-27",
+        "start": "2026-10-27T18:10:00.000Z",
+        "end": "2026-10-27T18:30:00.000Z",
+        "room": "Theater 4, Oracle AI World Hub",
+        "capacity": 10000,
+        "seatStatus": "not-published",
+        "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=THR2272",
+        "attributes": [
+          "Hub Theater",
+          "Oracle AI Database",
+          "Multicloud",
+          "Vector Search",
+          "Oracle AI Database",
+          "Non-Industry Specific",
+          "Beginner (New user of Oracle)",
+          "Developer",
+          "Tech End User",
+          "Database Administrator",
+          "In Person",
+          "Yes",
+          "Cloud Infrastructure",
+          "Data Management",
+          "11:00 a.m. Tuesday, Oct 27",
+          "Tuesday, Oct 27"
+        ],
+        "retrievalScores": [
+          7,
+          6,
+          5
+        ],
+        "retrievalScore": 18.45,
+        "evidence": [
+          "What happens when AI agents can query, reason over, and act on your Oracle data in real time?",
+          "In this live demo, see how AWS AI services on Amazon Bedrock connect agents to Oracle AI Database@AWS, retrieving structured and unstructured data via Oracle AI Database 26ai vector and graph search.",
+          "Watch an agent answer complex business questions by combining data stores and vector embeddings in one operation—governed by Oracle's existing security and row-level access controls.",
+          "A customer shares the use case behind this architecture: reducing days of manual reporting to minutes of agent-driven insight.",
+          "Whether you run ERP, financials, or custom apps on Oracle, see how your database becomes an active participant in AI-driven decision making."
+        ],
+        "goalScores": [
+          2,
+          3,
+          0
+        ],
+        "reason": "See agents retrieve data through vector and graph search while Oracle security and row-level controls govern access.",
+        "evidenceQuote": "Watch an agent answer complex business questions by combining data stores and vector embeddings in one operation—governed by Oracle's existing security and row-level access controls."
+      }
+    },
+    {
+      "id": "1789503368508001j3ai",
+      "sessionId": "1785442327087001c9qC",
+      "code": "LRN6082",
+      "title": "AI Without Cloud Boundaries: Autonomous AI Database on AWS, Azure, Google Cloud",
+      "description": "Enterprise AI depends on trusted, governed data that often spans multiple clouds. Oracle Autonomous AI Database Serverless is available on OCI, AWS, Microsoft Azure, and Google Cloud, helping teams build AI-powered applications closer to their data while using their preferred cloud platforms. In this session, learn how Oracle Autonomous AI Database Serverless helps accelerate AI development with a fully managed, self-securing, and self-scaling Oracle Database. We’ll explore Select AI, Oracle AI Vector Search, retrieval-augmented generation (RAG), and autonomous capabilities that can help simplify development and reduce operational complexity.",
+      "type": "Learning Session",
+      "date": "2026-10-27",
+      "start": "2026-10-27T20:00:00.000Z",
+      "end": "2026-10-27T20:45:00.000Z",
+      "room": "Galileo 1002, Level 1",
+      "capacity": 72,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6082",
+      "attributes": [
+        "Learning Session",
+        "Oracle AI Database",
+        "Multicloud",
+        "Autonomous AI Database",
+        "Non-Industry Specific",
+        "Intermediate (1-5 yrs user of Oracle)",
+        "Database Administrator",
+        "In Person",
+        "Yes",
+        "Cloud Infrastructure",
+        "Data Management",
+        "1:00 p.m. Tuesday, Oct 27",
+        "Tuesday, Oct 27"
+      ],
+      "retrievalScores": [
+        11,
+        5,
+        5
+      ],
+      "retrievalScore": 21.45,
+      "evidence": [
+        "Enterprise AI depends on trusted, governed data that often spans multiple clouds.",
+        "Oracle Autonomous AI Database Serverless is available on OCI, AWS, Microsoft Azure, and Google Cloud, helping teams build AI-powered applications closer to their data while using their preferred cloud platforms.",
+        "In this session, learn how Oracle Autonomous AI Database Serverless helps accelerate AI development with a fully managed, self-securing, and self-scaling Oracle Database.",
+        "We’ll explore Select AI, Oracle AI Vector Search, retrieval-augmented generation (RAG), and autonomous capabilities that can help simplify development and reduce operational complexity."
+      ],
+      "goalScores": [
+        3,
+        2,
+        1
+      ],
+      "reason": "Explore Select AI, Vector Search, and RAG in a managed, self-securing database across clouds.",
+      "evidenceQuote": "We’ll explore Select AI, Oracle AI Vector Search, retrieval-augmented generation (RAG), and autonomous capabilities that can help simplify development and reduce operational complexity.",
+      "backup": {
+        "id": "1789503292472001s7Ym",
+        "sessionId": "1785080125201001bwWW",
+        "code": "LRN6055",
+        "title": "Mission-Critical Oracle AI Database and Exadata: What's New and What's Next",
+        "description": "This session explores the latest innovations for running mission-critical workloads with Oracle AI Database 26ai, Exadata X11M, Exascale, Zero Data Loss Recovery Appliance (ZDLRA), and Oracle Exadata Cloud Infrastructure. Discover how these new features help improve scalability, availability, performance, and security for the most demanding enterprise applications. Discover how to modernize your infrastructure with deployment flexible deployment options across on-premises, Oracle Cloud Infrastructure (OCI), and multicloud environments including Microsoft Azure, Amazon Web Services (AWS), and Google Cloud. Hear how customers are using Oracle's mission-critical portfolio to increase resilience, simplify operations, and accelerate innovation.",
+        "type": "Learning Session",
+        "date": "2026-10-27",
+        "start": "2026-10-27T20:00:00.000Z",
+        "end": "2026-10-27T20:45:00.000Z",
+        "room": "Galileo 906, Level 1",
+        "capacity": 144,
+        "seatStatus": "not-published",
+        "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6055",
+        "attributes": [
+          "Learning Session",
+          "Oracle AI Database",
+          "Multicloud",
+          "Oracle AI Database",
+          "Non-Industry Specific",
+          "Intermediate (1-5 yrs user of Oracle)",
+          "Database Administrator",
+          "In Person",
+          "Yes",
+          "Cloud Infrastructure",
+          "Data Management",
+          "1:00 p.m. Tuesday, Oct 27",
+          "Tuesday, Oct 27"
+        ],
+        "retrievalScores": [
+          5,
+          7,
+          6
+        ],
+        "retrievalScore": 18.45,
+        "evidence": [
+          "This session explores the latest innovations for running mission-critical workloads with Oracle AI Database 26ai, Exadata X11M, Exascale, Zero Data Loss Recovery Appliance (ZDLRA), and Oracle Exadata Cloud Infrastructure.",
+          "Discover how these new features help improve scalability, availability, performance, and security for the most demanding enterprise applications.",
+          "Discover how to modernize your infrastructure with deployment flexible deployment options across on-premises, Oracle Cloud Infrastructure (OCI), and multicloud environments including Microsoft Azure, Amazon Web Services (AWS), and Google Cloud.",
+          "Hear how customers are using Oracle's mission-critical portfolio to increase resilience, simplify operations, and accelerate innovation."
+        ],
+        "goalScores": [
+          0,
+          2,
+          3
+        ],
+        "reason": "Review 26ai mission-critical capabilities for availability, resilience, security, and deployment across cloud and on-premises environments.",
+        "evidenceQuote": "Discover how these new features help improve scalability, availability, performance, and security for the most demanding enterprise applications."
+      }
+    },
+    {
+      "id": "1790207372800001Zhqw",
+      "sessionId": "1785454652627001cmEJ",
+      "code": "LRN2249",
+      "title": "Scaling Oracle AI Database@AWS: Architecture Patterns and Lessons w/State Street",
+      "description": "Can Oracle AI Database@AWS deliver Exadata-class performance, resilience, and security at true enterprise scale? In this session, we share real-world architecture patterns and hard-won lessons from a production deployment at one of the world's largest Exadata customers. We walk through multi-AZ ODB network deployments, hub-and-spoke connectivity across on-premises and multiple AWS VPCs, and design trade-offs between centralized traffic inspection and low-latency direct peering. Learn how this enterprise validated cross-tier performance and implemented Data Guard DR topologies at scale. This session delivers a production-grounded blueprint for any regulated enterprise evaluating or scaling Oracle AI Database@AWS.",
+      "type": "Learning Session",
+      "date": "2026-10-27",
+      "start": "2026-10-27T21:15:00.000Z",
+      "end": "2026-10-27T22:00:00.000Z",
+      "room": "Veronese 2403, Level 2",
+      "capacity": 72,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN2249",
+      "attributes": [
+        "Learning Session",
+        "Customer Success",
+        "AI Data Platform",
+        "Migration and Modernization",
+        "Non-Industry Specific",
+        "Beginner (New user of Oracle)",
+        "Tech Executive",
+        "Tech IT Manager",
+        "Business Executive",
+        "In Person",
+        "In Person and On Demand",
+        "Yes",
+        "Oracle Database",
+        "Data Management",
+        "2:00 p.m. Tuesday, Oct 27",
+        "Tuesday, Oct 27"
+      ],
+      "retrievalScores": [
+        6,
+        6,
+        5
+      ],
+      "retrievalScore": 17.3,
+      "evidence": [
+        "Can Oracle AI Database@AWS deliver Exadata-class performance, resilience, and security at true enterprise scale?",
+        "In this session, we share real-world architecture patterns and hard-won lessons from a production deployment at one of the world's largest Exadata customers.",
+        "We walk through multi-AZ ODB network deployments, hub-and-spoke connectivity across on-premises and multiple AWS VPCs, and design trade-offs between centralized traffic inspection and low-latency direct peering.",
+        "Learn how this enterprise validated cross-tier performance and implemented Data Guard DR topologies at scale.",
+        "This session delivers a production-grounded blueprint for any regulated enterprise evaluating or scaling Oracle AI Database@AWS."
+      ],
+      "goalScores": [
+        0,
+        2,
+        3
+      ],
+      "reason": "Study production architecture patterns, security trade-offs, and Data Guard disaster-recovery topologies at scale.",
+      "evidenceQuote": "Learn how this enterprise validated cross-tier performance and implemented Data Guard DR topologies at scale.",
+      "backup": null
+    },
+    {
+      "id": "1791788259597001GyVR",
+      "sessionId": "1781164738727001bFa5",
+      "code": "HOL6002",
+      "title": "Turn Enterprise Data into Better Answers with Oracle AI Vector Search",
+      "description": "In this hands-on lab, you’ll build a retrieval-augmented generation (RAG) pipeline using Oracle AI Vector Search in Oracle AI Database, SQL, and Oracle Private AI Services Container. You’ll learn how unstructured documents can be converted into vector embeddings, how to run semantic similarity searches over enterprise data, and how retrieved context can help support more relevant, context-aware natural language responses. You’ll also work with a prebuilt Oracle APEX chatbot that uses the same SQL-based retrieval pipeline, demonstrating how AI Vector Search can be integrated into enterprise applications.",
+      "type": "Hands-on Lab",
+      "date": "2026-10-28",
+      "start": "2026-10-28T16:00:00.000Z",
+      "end": "2026-10-28T17:30:00.000Z",
+      "room": "Casanova 505, Level 1",
+      "capacity": 40,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=HOL6002",
+      "attributes": [
+        "Hands-on Lab",
+        "Oracle AI Database",
+        "Vector Search",
+        "Al Agents",
+        "Oracle AI Database",
+        "Non-Industry Specific",
+        "Intermediate (1-5 yrs user of Oracle)",
+        "Developer",
+        "In Person",
+        "Bring your laptop to follow along for the best hands-on experience. Laptops are not provided",
+        "Yes",
+        "Data Management",
+        "9:00 a.m. Wednesday, Oct 28",
+        "Wednesday, Oct 28"
+      ],
+      "retrievalScores": [
+        15,
+        1,
+        1
+      ],
+      "retrievalScore": 17.3,
+      "evidence": [
+        "In this hands-on lab, you’ll build a retrieval-augmented generation (RAG) pipeline using Oracle AI Vector Search in Oracle AI Database, SQL, and Oracle Private AI Services Container.",
+        "You’ll learn how unstructured documents can be converted into vector embeddings, how to run semantic similarity searches over enterprise data, and how retrieved context can help support more relevant, context-aware natural language responses.",
+        "You’ll also work with a prebuilt Oracle APEX chatbot that uses the same SQL-based retrieval pipeline, demonstrating how AI Vector Search can be integrated into enterprise applications."
+      ],
+      "goalScores": [
+        3,
+        1,
+        0
+      ],
+      "reason": "Build a RAG pipeline with AI Vector Search, semantic retrieval, and an enterprise chatbot.",
+      "evidenceQuote": "In this hands-on lab, you’ll build a retrieval-augmented generation (RAG) pipeline using Oracle AI Vector Search in Oracle AI Database, SQL, and Oracle Private AI Services Container.",
+      "backup": {
+        "id": "1789505392129001su1W",
+        "sessionId": "1783525113216001ulAz",
+        "code": "HOL6019",
+        "title": "Upgrade to Oracle AI Database and Become an AI-Enabled DBA",
+        "description": "Upgrading to Oracle AI Database 26ai is a practical step toward using AI capabilities in the database. In this 90-minute hands-on lab, attendees explore practical upgrade strategies, fallback and rollback techniques, and operational best practices for well-planned upgrades to Oracle AI Database. The lab then focuses on enabling and using the built-in AI capabilities. Through practical DBA-focused exercises, participants will activate AI functionality, configure required components, and see how AI can support automation, productivity, and modern database operations. The session also includes troubleshooting tips and lessons learned from field experience.",
+        "type": "Hands-on Lab",
+        "date": "2026-10-28",
+        "start": "2026-10-28T16:00:00.000Z",
+        "end": "2026-10-28T17:30:00.000Z",
+        "room": "Casanova 504, Level 1",
+        "capacity": 80,
+        "seatStatus": "not-published",
+        "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=HOL6019",
+        "attributes": [
+          "Hands-on Lab",
+          "Oracle AI Database",
+          "Oracle AI Database",
+          "Non-Industry Specific",
+          "Intermediate (1-5 yrs user of Oracle)",
+          "Developer",
+          "Database Administrator",
+          "In Person",
+          "Bring your laptop to follow along for the best hands-on experience. Laptops are not provided",
+          "Yes",
+          "Data Management",
+          "9:00 a.m. Wednesday, Oct 28",
+          "Wednesday, Oct 28"
+        ],
+        "retrievalScores": [
+          5,
+          5,
+          7
+        ],
+        "retrievalScore": 17.45,
+        "evidence": [
+          "Upgrading to Oracle AI Database 26ai is a practical step toward using AI capabilities in the database.",
+          "In this 90-minute hands-on lab, attendees explore practical upgrade strategies, fallback and rollback techniques, and operational best practices for well-planned upgrades to Oracle AI Database.",
+          "The lab then focuses on enabling and using the built-in AI capabilities.",
+          "Through practical DBA-focused exercises, participants will activate AI functionality, configure required components, and see how AI can support automation, productivity, and modern database operations.",
+          "The session also includes troubleshooting tips and lessons learned from field experience."
+        ],
+        "goalScores": [
+          1,
+          0,
+          3
+        ],
+        "reason": "Practice 26ai upgrade planning, rollback techniques, and DBA-focused operational exercises for enabling AI capabilities.",
+        "evidenceQuote": "In this 90-minute hands-on lab, attendees explore practical upgrade strategies, fallback and rollback techniques, and operational best practices for well-planned upgrades to Oracle AI Database."
+      }
+    },
+    {
+      "id": "1790029633369001V5CG",
+      "sessionId": "1787352585438001ZIIt",
+      "code": "THR6097",
+      "title": "Private AI End to End with Oracle Private AI Services Container",
+      "description": "Sensitive enterprise data shouldn't have to leave an organization's security boundary to become AI-ready. Join Oracle and NVIDIA to see an end-to-end private AI architecture using Oracle Private AI Services Container and Oracle AI Database. Learn how to generate embeddings privately, accelerate vector index creation with NVIDIA GPUs, retrieve enterprise knowledge with Oracle AI Vector Search, and securely perform inference using the Private LLM Service. Discover a practical retrieval-augmented generation (RAG) workflow and how to build secure, scalable AI applications while keeping models, prompts, data, and responses entirely within your own infrastructure.",
+      "type": "Hub Theater",
+      "date": "2026-10-28",
+      "start": "2026-10-28T18:00:00.000Z",
+      "end": "2026-10-28T18:20:00.000Z",
+      "room": "Theater 1, Oracle AI World Hub",
+      "capacity": 10000,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=THR6097",
+      "attributes": [
+        "Hub Theater",
+        "Oracle AI Database",
+        "AI",
+        "Al Agents",
+        "Oracle AI Database",
+        "Non-Industry Specific",
+        "Intermediate (1-5 yrs user of Oracle)",
+        "Developer",
+        "In Person",
+        "Yes",
+        "Data Management",
+        "Developer Technology",
+        "Wednesday, Oct 28",
+        "11:00 a.m. Wednesday, Oct 28"
+      ],
+      "retrievalScores": [
+        7,
+        2,
+        1
+      ],
+      "retrievalScore": 10.3,
+      "evidence": [
+        "Sensitive enterprise data shouldn't have to leave an organization's security boundary to become AI-ready.",
+        "Join Oracle and NVIDIA to see an end-to-end private AI architecture using Oracle Private AI Services Container and Oracle AI Database.",
+        "Learn how to generate embeddings privately, accelerate vector index creation with NVIDIA GPUs, retrieve enterprise knowledge with Oracle AI Vector Search, and securely perform inference using the Private LLM Service.",
+        "Discover a practical retrieval-augmented generation (RAG) workflow and how to build secure, scalable AI applications while keeping models, prompts, data, and responses entirely within your own infrastructure."
+      ],
+      "goalScores": [
+        3,
+        3,
+        0
+      ],
+      "reason": "Work through private embeddings, vector retrieval, and a RAG workflow while keeping data, prompts, and responses within your infrastructure.",
+      "evidenceQuote": "Learn how to generate embeddings privately, accelerate vector index creation with NVIDIA GPUs, retrieve enterprise knowledge with Oracle AI Vector Search, and securely perform inference using the Private LLM Service.",
+      "backup": null
+    },
+    {
+      "id": "1790105951109001eUgX",
+      "sessionId": "1788191118520001QWQa",
+      "code": "MET6100",
+      "title": "40 Seats, Zero Slides: The Database Patching Clinic",
+      "description": "Patching does not have to mean long weekends, fragile runbooks, and familiar upgrade nightmares. Join this 45-minute, no-slides discussion with the Oracle Database Patching experts. Five small tables, up to 40 DBAs, your questions, and Oracle Database and Grid Infrastructure patching experts ready to help. Bring your patching concerns, downtime pressure, failed datapatch runs and let us discuss how often you should patch. We will discuss how to build a more agile patching practice, reduce risk through repeatable workflows. We want to help you simplify database upgrades and patching. Expect practical conversations, quick laptop demonstrations, and solutions you can take back to your next maintenance window.",
+      "type": "Hub Meetup",
+      "date": "2026-10-28",
+      "start": "2026-10-28T18:30:00.000Z",
+      "end": "2026-10-28T19:15:00.000Z",
+      "room": "Hub Meetup, Oracle AI World Hub",
+      "capacity": null,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=MET6100",
+      "attributes": [
+        "Hub Meetup",
+        "Oracle AI Database",
+        "Oracle AI Database",
+        "Non-Industry Specific",
+        "Intermediate (1-5 yrs user of Oracle)",
+        "Tech End User",
+        "Database Administrator",
+        "In Person",
+        "Yes",
+        "Data Management",
+        "Wednesday, Oct 28",
+        "11:00 a.m. Wednesday, Oct 28"
+      ],
+      "retrievalScores": [
+        6,
+        5,
+        6
+      ],
+      "retrievalScore": 17.15,
+      "evidence": [
+        "Patching does not have to mean long weekends, fragile runbooks, and familiar upgrade nightmares.",
+        "Join this 45-minute, no-slides discussion with the Oracle Database Patching experts.",
+        "Five small tables, up to 40 DBAs, your questions, and Oracle Database and Grid Infrastructure patching experts ready to help.",
+        "Bring your patching concerns, downtime pressure, failed datapatch runs and let us discuss how often you should patch.",
+        "We will discuss how to build a more agile patching practice, reduce risk through repeatable workflows.",
+        "We want to help you simplify database upgrades and patching.",
+        "Expect practical conversations, quick laptop demonstrations, and solutions you can take back to your next maintenance window."
+      ],
+      "goalScores": [
+        0,
+        1,
+        2
+      ],
+      "reason": "Discuss practical patching workflows and ways to reduce risk and disruption during maintenance windows.",
+      "evidenceQuote": "We will discuss how to build a more agile patching practice, reduce risk through repeatable workflows.",
+      "backup": null
+    },
+    {
+      "id": "1790029520461001fX7B",
+      "sessionId": "1787159810007001Bged",
+      "code": "THR6093",
+      "title": "Oracle AI Database in Practice: An Oracle ACE’s View of What Matters",
+      "description": "What’s worth exploring in Oracle AI Database? Hear an Oracle ACE’s practitioner perspective, shaped by hands-on testing and real-world scenarios. We’ll dig into AI Vector Search, including vector data types, embeddings, similarity search, and HNSW and IVF indexes. We’ll also explore True Cache and SQL Firewall, with a practical look at performance, resilience, and security. Expect technical insights, demos, lessons learned, and candid observations, plus test environments and resources you can use to experiment on your own.",
+      "type": "Hub Theater",
+      "date": "2026-10-28",
+      "start": "2026-10-28T20:40:00.000Z",
+      "end": "2026-10-28T21:00:00.000Z",
+      "room": "Theater 2, Oracle AI World Hub",
+      "capacity": 10000,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=THR6093",
+      "attributes": [
+        "Hub Theater",
+        "Oracle AI Database",
+        "AI",
+        "Oracle AI Database",
+        "Non-Industry Specific",
+        "Beginner (New user of Oracle)",
+        "Developer",
+        "Database Administrator",
+        "In Person",
+        "Yes",
+        "Data Management",
+        "Developer Technology",
+        "1:00 p.m. Wednesday, Oct 28",
+        "Wednesday, Oct 28"
+      ],
+      "retrievalScores": [
+        7,
+        6,
+        5
+      ],
+      "retrievalScore": 18.15,
+      "evidence": [
+        "What’s worth exploring in Oracle AI Database?",
+        "Hear an Oracle ACE’s practitioner perspective, shaped by hands-on testing and real-world scenarios.",
+        "We’ll dig into AI Vector Search, including vector data types, embeddings, similarity search, and HNSW and IVF indexes.",
+        "We’ll also explore True Cache and SQL Firewall, with a practical look at performance, resilience, and security.",
+        "Expect technical insights, demos, lessons learned, and candid observations, plus test environments and resources you can use to experiment on your own."
+      ],
+      "goalScores": [
+        2,
+        2,
+        1
+      ],
+      "reason": "Get practitioner insights on Vector Search, indexes, SQL Firewall, performance, resilience, and security.",
+      "evidenceQuote": "We’ll dig into AI Vector Search, including vector data types, embeddings, similarity search, and HNSW and IVF indexes.",
+      "backup": null
+    }
+  ],
+  "goals": [
+    {
+      "goal": "Implement AI Vector Search and RAG in Oracle Database",
+      "status": "Supported",
+      "sessionIds": [
+        "1789503073594001Xfqd",
+        "1789501538634001H0k4",
+        "1789501679132001g60N",
+        "1789503005714001gbaZ",
+        "1789503368508001j3ai",
+        "1791788259597001GyVR",
+        "1790029633369001V5CG",
+        "1790029520461001fX7B"
+      ],
+      "explanation": "8 selected sessions support this goal. Attendance supports learning; it does not verify mastery."
+    },
+    {
+      "goal": "Improve database security and governance",
+      "status": "Supported",
+      "sessionIds": [
+        "1790368137765001v9d5",
+        "1789501679132001g60N",
+        "1790048741477001ZvEq",
+        "1789503005714001gbaZ",
+        "1789503368508001j3ai",
+        "1790207372800001Zhqw",
+        "1790029633369001V5CG",
+        "1790029520461001fX7B"
+      ],
+      "explanation": "8 selected sessions support this goal. Attendance supports learning; it does not verify mastery."
+    },
+    {
+      "goal": "Plan database upgrades and high availability",
+      "status": "Supported",
+      "sessionIds": [
+        "1790368137765001v9d5",
+        "1789503073594001Xfqd",
+        "1790048741477001ZvEq",
+        "1789503005714001gbaZ",
+        "1790207372800001Zhqw",
+        "1790105951109001eUgX"
+      ],
+      "explanation": "6 selected sessions support this goal. Attendance supports learning; it does not verify mastery."
+    }
+  ],
+  "input": {
+    "profile": "I am an experienced Oracle DBA expanding into AI Database 26ai and enterprise AI capabilities.",
+    "goals": [
+      "Implement AI Vector Search and RAG in Oracle Database",
+      "Improve database security and governance",
+      "Plan database upgrades and high availability"
+    ],
+    "days": [
+      "2026-10-26",
+      "2026-10-27",
+      "2026-10-28"
+    ]
+  },
+  "bufferMinutes": 10,
+  "timeZone": "America/Los_Angeles",
+  "generatedAt": "2026-10-25T21:26:54.944Z",
+  "mode": "live",
+  "model": "gpt-6-luna",
+  "aiCalled": true,
+  "catalogCapturedAt": "2026-10-25T21:17:21.678Z",
+  "catalogSize": 764,
+  "candidateCount": 72,
+  "rankedCount": 30,
+  "responseId": "resp_049b3c94586c4701016ade7403aae887d0a838f49a6d43deee"
+}

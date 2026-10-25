@@ -1,0 +1,46 @@
+{
+  "agendaCalendarParity": true,
+  "agendaSessionIds": [
+    "1789503097217001aUvG",
+    "1789540280920001tMLF",
+    "1789687462610001hLcN",
+    "1789688152162001RIH4",
+    "1789688284111001OIJq",
+    "1790048379461001D58g",
+    "1790181314488001GZWf",
+    "1790207366230001kkwG",
+    "1790372875202001zqmu",
+    "1790695611227001XjiO",
+    "1790981158405001bZGa"
+  ],
+  "calendarSessionIds": [
+    "1789503097217001aUvG",
+    "1789540280920001tMLF",
+    "1789687462610001hLcN",
+    "1789688152162001RIH4",
+    "1789688284111001OIJq",
+    "1790048379461001D58g",
+    "1790181314488001GZWf",
+    "1790207366230001kkwG",
+    "1790372875202001zqmu",
+    "1790695611227001XjiO",
+    "1790981158405001bZGa"
+  ],
+  "capturedAt": "2026-10-25T21:43:48.454Z",
+  "dayColumns": 3,
+  "mode": "LIVE AI · VERIFIED TIMES",
+  "openRegions": 13,
+  "pageWidth": 1265,
+  "summary": "11\nsessions selected\n3/3\ngoals supported\n0\nschedule conflicts\n10\nbackup options",
+  "transitionRegions": 8,
+  "viewportWidth": 1280,
+  "manualChecks": {
+    "mondayFilter": {
+      "agendaSessions": 4,
+      "calendarSessions": 4,
+      "dayColumns": 1
+    },
+    "calendarBackupOpened": true,
+    "viewSwitchingPreservesAgenda": true
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "persona": "User-provided Fusion/Cloud administrator",
+  "latencyMs": 23385,
+  "sessions": 11,
+  "backups": 11,
+  "goals": [
+    {
+      "goal": "AI Agents",
+      "status": "Supported"
+    },
+    {
+      "goal": "AI Governance",
+      "status": "Supported"
+    },
+    {
+      "goal": "AI Security",
+      "status": "Supported"
+    }
+  ],
+  "conflicts": 0,
+  "evidenceVerified": true,
+  "sourceDetailsVerified": true,
+  "backupsVerified": true,
+  "rejectedRecommendations": 0,
+  "responseId": "resp_030ac170a01371b4016ade763dfe8087d0a78c7966a463f4d3"
+}

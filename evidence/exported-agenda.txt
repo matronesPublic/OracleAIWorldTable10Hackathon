@@ -1,0 +1,115 @@
+MY AI WORLD — PERSONAL LEARNING AGENDA
+Saved example · All times Las Vegas (PDT)
+10-minute transition buffer · Seats are not reserved
+
+YOUR GOALS
+Build RAG applications with vector search: Supported
+Develop and deploy AI agents on OCI: Supported
+Evaluate and govern production AI systems: Supported
+
+Monday, Oct 26 11:30 AM–12:15 PM
+Why Your Vector Query is Slow: Inside Look to Oracle Optimizer [LRN6046]
+Marco Polo 805, Level 1
+Understanding how Oracle’s optimizer handles vector indexes and hybrid queries can help you design and troubleshoot efficient retrieval for RAG applications. This is a focused database session rather than an agent or governance session.
+Catalog evidence: "this session explores how Oracle AI Database extends its cost-based optimization framework to support vector indexes and hybrid AI workloads."
+https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6046
+Seats: availability not published
+No suitable backup found.
+
+Monday, Oct 26 1:00 PM–3:00 PM
+Build Enterprise AI That Works: From Enterprise Data to Agentic Applications [BOO2196]
+Casanova 604, Level 1
+This experience takes you from structured and unstructured data through RAG agent flows to deployment, while also addressing security and observability. It offers a practical end-to-end view of enterprise AI implementation relevant to your goals.
+Catalog evidence: "build an agent flow with retrieval-augmented generation (RAG), and prepare it for enterprise workflows."
+https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=BOO2196
+Seats: availability not published
+BACKUP: How Leading Organizations Run Production AI/ML Workloads at Scale on OKE [LRN2231]
+12:45 PM–1:30 PM · Bellini 2102, Level 2
+https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN2231
+
+Monday, Oct 26 4:00 PM–5:30 PM
+Deploy LangGraph Agents with OCI Enterprise AI [HOL2207]
+Casanova 505, Level 1
+You’ll package a LangGraph agent as a FastAPI service, containerize it, and deploy it on OCI Enterprise AI. The secure, scalable deployment pattern is directly useful for your OCI implementation goal, with production operation also touching governance.
+Catalog evidence: "you’ll package a LangGraph agent as a FastAPI service, containerize it, and deploy it as a managed application on OCI Enterprise AI."
+https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=HOL2207
+Seats: availability not published
+BACKUP: Build Trusted Apps Faster with New AI Features in Oracle APEX [LRN6064]
+3:15 PM–4:00 PM · Galileo 907, Level 1
+https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6064
+
+Tuesday, Oct 27 8:00 AM–8:45 AM
+Agents in the AI Data Platform: From Design to Production at Scale [LRN1229]
+Titian 2206, Level 2
+The lifecycle coverage includes RAG grounding, policy controls, evaluation, observability, auditability, and deployment. That is a strong fit for connecting your LLM basics to production agent design and governance practices.
+Catalog evidence: "The session also covers evaluation approaches, observability, auditability, and deployment practices for production environments."
+https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN1229
+Seats: availability not published
+No suitable backup found.
+
+Tuesday, Oct 27 10:00 AM–11:30 AM
+Build an AI Agent Using RAG, Tools, and Data with AI Data Platform [HOL2330]
+Casanova 605, Level 1
+This hands-on session covers grounded retrieval and agent construction on Oracle AI Data Platform, including evaluation sets, trace inspection, and a release gate. Those concrete steps connect RAG implementation with deploying and checking agents in production.
+Catalog evidence: "create an evaluation set, inspect traces, diagnose retrieval or tool-selection issues, and add a release gate before deployment."
+https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=HOL2330
+Seats: availability not published
+BACKUP: Trusted Agentic AI with Oracle AI Database [LRN6035]
+10:30 AM–11:15 AM · Titian 2206, Level 2
+https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6035
+
+Tuesday, Oct 27 11:45 AM–12:30 PM
+Accelerating AI Across Oracle Applications: OCI with NVIDIA Developer Engagement [LRN2671]
+Veronese 2403, Level 2
+This session covers integration patterns across vector search, RAG, and agent orchestration that you can apply to enterprise data workflows. It is relevant for architectural implementation, though the description gives less detail about hands-on coding or evaluation.
+Catalog evidence: "integration patterns and architectural approaches that NVIDIA and Oracle's technical teams have developed across vector search, RAG, and agentic AI orchestration."
+https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN2671
+Seats: availability not published
+No suitable backup found.
+
+Tuesday, Oct 27 1:00 PM–2:30 PM
+Build an enterprise data chat agent with NVIDIA AI-Q Blueprint on OCI [HOL1172]
+Casanova 505, Level 1
+This OCI workshop has you deploy GPU workloads on OKE and build an enterprise data agent with retrieval, reasoning, and cited answers. It connects hands-on retrieval skills to an OCI agent deployment pattern.
+Catalog evidence: "you’ll deploy NVIDIA GPU workloads on Oracle Kubernetes Engine (OKE) in OCI and build an enterprise data agent using the NVIDIA AI-Q Blueprint."
+https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=HOL1172
+Seats: availability not published
+BACKUP: Governed Intelligence: Enterprise Agentic AI on Oracle OCI & AI Data Platform [THR2850]
+2:30 PM–2:50 PM · Theater 4, Oracle AI World Hub
+https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=THR2850
+
+Wednesday, Oct 28 9:00 AM–9:45 AM
+AI Agent Governance and Human in the Loop with Oracle Integration [LRN2288]
+Titian 2204, Level 2
+This session demonstrates how approvals and human oversight can be added to agentic workflows, and how to design, deploy, and manage those workflows. It directly supports your interest in governing production AI systems.
+Catalog evidence: "Learn how Oracle Integration connects and governs AI agents across Oracle AI Agent Studio for Fusion Applications, Oracle AI Data Platform Agent Hub, Oracle AI Database 26ai Agent Factory, OCI Enterprise AI, and third-party or custom agents."
+https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN2288
+Seats: availability not published
+BACKUP: Agents Need Infrastructure Too: Building the Backbone for Agentic AI [LRN2412]
+9:00 AM–9:45 AM · Marco Polo 803, Level 1
+https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN2412
+
+Wednesday, Oct 28 10:15 AM–11:00 AM
+Developer Demo: Building Production-Ready AI Agents [LRN6080]
+Marco Polo 802, Level 1
+This demo examines a production-oriented support-ticket workflow using embeddings and Oracle AI Vector Search, alongside retries, regional data placement, and approval history. It provides useful examples of robust agent application design and controls.
+Catalog evidence: "Oracle AI Vector Search helps identify related tickets and policies."
+https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6080
+Seats: availability not published
+BACKUP: Private AI End to End with Oracle Private AI Services Container [THR6097]
+11:00 AM–11:20 AM · Theater 1, Oracle AI World Hub
+https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=THR6097
+
+Wednesday, Oct 28 11:30 AM–12:15 PM
+AI in the Database: The Grand Tour [LRN6103]
+Galileo 1001, Level 1
+This overview connects vector search and RAG with agentic solutions in a governed database environment. It provides useful context for how retrieval and agent actions can fit within enterprise data controls.
+Catalog evidence: "We’ll also showcase agentic solutions that can reason, retrieve information, and take action within a governed database environment."
+https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6103
+Seats: availability not published
+BACKUP: Operationalizing Agentic AI in HR: Building a Scalable Governance Approach [THR2433]
+12:20 PM–12:40 PM · Theater 10, Customer Success Central, The Hub
+https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=THR2433
+
+Catalog snapshot: 2026-10-25T21:17:21.678Z
+Check official access requirements and updates before attending.

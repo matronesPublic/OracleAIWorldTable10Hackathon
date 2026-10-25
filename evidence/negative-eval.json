@@ -1,0 +1,13 @@
+{
+  "evaluatedAt": "2026-10-25T21:28:21.349Z",
+  "unrelatedGoal": {
+    "sessions": 0,
+    "status": "Gap",
+    "liveAI": true,
+    "latencyMs": 2431,
+    "responseId": "resp_0f590ce900167182016ade7474533887d0b3d5eac209aba62f"
+  },
+  "invalidInput": 400,
+  "wrongMethod": 405,
+  "privateFileNotServed": 404
+}

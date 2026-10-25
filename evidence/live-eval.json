@@ -1,0 +1,86 @@
+{
+  "evaluatedAt": "2026-10-25T21:26:54.951Z",
+  "results": [
+    {
+      "persona": "AI application developer",
+      "mode": "live",
+      "latencyMs": 37478,
+      "sessions": 10,
+      "backups": 7,
+      "goalsSupported": 3,
+      "totalGoals": 3,
+      "conflicts": 0,
+      "evidenceVerified": true,
+      "sourceDetailsVerified": true,
+      "backupsVerified": true,
+      "responseId": "resp_0c0975bbf52d822f016ade73c55cf887d08d19d425aa049bb8",
+      "codes": [
+        "LRN6046",
+        "BOO2196",
+        "LRN6064",
+        "LRN1229",
+        "LRN6035",
+        "LRN6033",
+        "THR2850",
+        "HOL6011",
+        "THR6097",
+        "LRN6103"
+      ]
+    },
+    {
+      "persona": "Enterprise architect",
+      "mode": "live",
+      "latencyMs": 25236,
+      "sessions": 11,
+      "backups": 10,
+      "goalsSupported": 3,
+      "totalGoals": 3,
+      "conflicts": 0,
+      "evidenceVerified": true,
+      "sourceDetailsVerified": true,
+      "backupsVerified": true,
+      "responseId": "resp_01deb47097b78a11016ade73ea4e0087d0aad0ce89c938a4c5",
+      "codes": [
+        "LRN2364",
+        "LRN1233",
+        "SPO2478",
+        "THR2338",
+        "LRN1229",
+        "LRN6035",
+        "LRN2274",
+        "THR2850",
+        "LRN1232",
+        "LRN2341",
+        "THR6105"
+      ]
+    },
+    {
+      "persona": "Database professional",
+      "mode": "live",
+      "latencyMs": 28172,
+      "sessions": 12,
+      "backups": 7,
+      "goalsSupported": 3,
+      "totalGoals": 3,
+      "conflicts": 0,
+      "evidenceVerified": true,
+      "sourceDetailsVerified": true,
+      "backupsVerified": true,
+      "responseId": "resp_049b3c94586c4701016ade7403aae887d0a838f49a6d43deee",
+      "codes": [
+        "LRN6044",
+        "LRN6009",
+        "LRN6090",
+        "LRN6064",
+        "LRN2424",
+        "LRN6035",
+        "LRN6082",
+        "LRN2249",
+        "HOL6002",
+        "THR6097",
+        "MET6100",
+        "THR6093"
+      ]
+    }
+  ]
+}

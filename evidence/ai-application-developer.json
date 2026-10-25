@@ -1,0 +1,971 @@
+{
+  "sessions": [
+    {
+      "id": "1789501515711001gtrq",
+      "sessionId": "1784672927173001QiaW",
+      "code": "LRN6046",
+      "title": "Why Your Vector Query is Slow: Inside Look to Oracle Optimizer",
+      "description": "Vector search is transforming how applications retrieve and reason over data, but delivering high-performance AI-powered retrieval requires much more than a new index type. The Oracle Optimizer continues to evolve, recognizing vector access paths, estimating costs, and generating execution plans that seamlessly combine vector similarity search with traditional relational operations. Designed for developers and database specialists, this session explores how Oracle AI Database extends its cost-based optimization framework to support vector indexes and hybrid AI workloads.",
+      "type": "Learning Session",
+      "date": "2026-10-26",
+      "start": "2026-10-26T18:30:00.000Z",
+      "end": "2026-10-26T19:15:00.000Z",
+      "room": "Marco Polo 805, Level 1",
+      "capacity": 72,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6046",
+      "attributes": [
+        "Learning Session",
+        "Oracle AI Database",
+        "Cloud Cost Optimization",
+        "Non-Industry Specific",
+        "Intermediate (1-5 yrs user of Oracle)",
+        "Developer",
+        "Tech IT Manager",
+        "Database Administrator",
+        "In Person",
+        "Yes",
+        "Monday, Oct 26",
+        "11:00 a.m. Monday, Oct 26"
+      ],
+      "retrievalScores": [
+        8,
+        2,
+        0
+      ],
+      "retrievalScore": 10.3,
+      "evidence": [
+        "Vector search is transforming how applications retrieve and reason over data, but delivering high-performance AI-powered retrieval requires much more than a new index type.",
+        "The Oracle Optimizer continues to evolve, recognizing vector access paths, estimating costs, and generating execution plans that seamlessly combine vector similarity search with traditional relational operations.",
+        "Designed for developers and database specialists, this session explores how Oracle AI Database extends its cost-based optimization framework to support vector indexes and hybrid AI workloads."
+      ],
+      "goalScores": [
+        2,
+        0,
+        0
+      ],
+      "reason": "Understand how Oracle's optimizer selects vector access paths and combines similarity search with relational operations for hybrid workloads.",
+      "evidenceQuote": "Designed for developers and database specialists, this session explores how Oracle AI Database extends its cost-based optimization framework to support vector indexes and hybrid AI workloads.",
+      "backup": null
+    },
+    {
+      "id": "1789938190083001tOG4",
+      "sessionId": "1785009374152001HSij",
+      "code": "BOO2196",
+      "title": "Build Enterprise AI That Works: From Enterprise Data to Agentic Applications",
+      "description": "Building effective enterprise AI takes more than powerful models—it also requires enterprise data, business context, and appropriate governance practices. In this immersive experience, you'll follow the journey from fragmented enterprise data to AI applications for production using Oracle AI Data Platform. You will understand how to connect structured and unstructured data, build an agent flow with retrieval-augmented generation (RAG), and prepare it for enterprise workflows. Along the way, you will explore data ingestion, security, observability, and deployment while creating an architectural blueprint you can apply to your own AI initiatives.",
+      "type": "Product Bootcamp",
+      "date": "2026-10-26",
+      "start": "2026-10-26T20:00:00.000Z",
+      "end": "2026-10-26T22:00:00.000Z",
+      "room": "Casanova 604, Level 1",
+      "capacity": 80,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=BOO2196",
+      "attributes": [
+        "Product Bootcamp",
+        "Customer Success",
+        "AI",
+        "AI Data Platform",
+        "Analytics",
+        "Non-Industry Specific",
+        "Intermediate (1-5 yrs user of Oracle)",
+        "Developer",
+        "Tech Executive",
+        "Tech End User",
+        "Tech IT Manager",
+        "Business Manager",
+        "Business Executive",
+        "Database Administrator",
+        "In Person",
+        "Yes",
+        "Oracle Database",
+        "Data Management",
+        "Developer Technology",
+        "Monday, Oct 26",
+        "1:00 p.m. Monday, Oct 26"
+      ],
+      "retrievalScores": [
+        9,
+        12,
+        2
+      ],
+      "retrievalScore": 23.3,
+      "evidence": [
+        "Building effective enterprise AI takes more than powerful models—it also requires enterprise data, business context, and appropriate governance practices.",
+        "In this immersive experience, you'll follow the journey from fragmented enterprise data to AI applications for production using Oracle AI Data Platform.",
+        "You will understand how to connect structured and unstructured data, build an agent flow with retrieval-augmented generation (RAG), and prepare it for enterprise workflows.",
+        "Along the way, you will explore data ingestion, security, observability, and deployment while creating an architectural blueprint you can apply to your own AI initiatives."
+      ],
+      "goalScores": [
+        3,
+        3,
+        2
+      ],
+      "reason": "This bootcamp connects enterprise data to a RAG agent flow and covers security, observability, and deployment for production workflows.",
+      "evidenceQuote": "You will understand how to connect structured and unstructured data, build an agent flow with retrieval-augmented generation (RAG), and prepare it for enterprise workflows.",
+      "backup": {
+        "id": "1790372875202001zqmu",
+        "sessionId": "1786397603952001sTY9",
+        "code": "LRN2369",
+        "title": "Agents in Action: How KPMG Deploys Fusion Agentic Apps at Scale",
+        "description": "Organizations are moving beyond AI experimentation and seeking practical ways to drive measurable business value. Join KPMG and Oracle for a real-world look at how KPMG helps clients identify high-value use cases, design and deploy custom and partner agents using Oracle AI Agent Studio, and establish governance to manage them at scale. Through client engagement and industry-relevant examples, learn how organizations can accelerate adoption, build trust, and achieve meaningful outcomes with agentic AI. The session concludes with a special presentation from Republic Services, the winner of the 2026 KPMG Hackathon, showcasing an innovative new agent concept and the future of enterprise AI.",
+        "type": "Learning Session",
+        "date": "2026-10-26",
+        "start": "2026-10-26T19:45:00.000Z",
+        "end": "2026-10-26T20:30:00.000Z",
+        "room": "Titian 2306, Level 2",
+        "capacity": 72,
+        "seatStatus": "not-published",
+        "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN2369",
+        "attributes": [
+          "Learning Session",
+          "Oracle Fusion Cloud Applications",
+          "AI Data Platform",
+          "Fusion Data Intelligence",
+          "Al Agents",
+          "Non-Industry Specific",
+          "General Audience",
+          "Developer",
+          "Business Manager",
+          "Business Executive",
+          "In Person",
+          "In Person and On Demand",
+          "Yes",
+          "Oracle Database",
+          "Data Management",
+          "12:00 p.m. Monday, Oct 26",
+          "Monday, Oct 26"
+        ],
+        "retrievalScores": [
+          1,
+          17,
+          1
+        ],
+        "retrievalScore": 19.45,
+        "evidence": [
+          "Organizations are moving beyond AI experimentation and seeking practical ways to drive measurable business value.",
+          "Join KPMG and Oracle for a real-world look at how KPMG helps clients identify high-value use cases, design and deploy custom and partner agents using Oracle AI Agent Studio, and establish governance to manage them at scale.",
+          "Through client engagement and industry-relevant examples, learn how organizations can accelerate adoption, build trust, and achieve meaningful outcomes with agentic AI.",
+          "The session concludes with a special presentation from Republic Services, the winner of the 2026 KPMG Hackathon, showcasing an innovative new agent concept and the future of enterprise AI."
+        ],
+        "goalScores": [
+          0,
+          2,
+          2
+        ],
+        "reason": "Learn from real deployments of custom agents using Oracle AI Agent Studio, including governance practices for managing them at scale.",
+        "evidenceQuote": "Join KPMG and Oracle for a real-world look at how KPMG helps clients identify high-value use cases, design and deploy custom and partner agents using Oracle AI Agent Studio, and establish governance to manage them at scale."
+      }
+    },
+    {
+      "id": "1789501679132001g60N",
+      "sessionId": "1785276266114001jmHT",
+      "code": "LRN6064",
+      "title": "Build Trusted Apps Faster with New AI Features in Oracle APEX",
+      "description": "Oracle APEX 26.2 introduces powerful built-in AI capabilities that enable developers and users to interact with data in more natural, intelligent ways. In this session, explore how APEX transforms applications with natural language interfaces, conversational AI, intelligent dashboards, and automated data summarization. Learn how AI agents and AI tools enable LLMs to securely retrieve relevant data through enterprise data access controls, execute agentic workflows, and interact through AI-powered widgets and reports. See how retrieval-augmented generation (RAG) and AI Vector Search in Oracle AI Database help deliver accurate, relevant, and context-aware responses grounded in private enterprise data.",
+      "type": "Learning Session",
+      "date": "2026-10-26",
+      "start": "2026-10-26T22:15:00.000Z",
+      "end": "2026-10-26T23:00:00.000Z",
+      "room": "Galileo 907, Level 1",
+      "capacity": 72,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6064",
+      "attributes": [
+        "Learning Session",
+        "Oracle AI Database",
+        "AI",
+        "Vector Search",
+        "Autonomous AI Database",
+        "Developer Technologies",
+        "Non-Industry Specific",
+        "Intermediate (1-5 yrs user of Oracle)",
+        "Developer",
+        "Tech Executive",
+        "Business Executive",
+        "Business End User",
+        "In Person",
+        "Yes",
+        "Data Management",
+        "Developer Technology",
+        "3:00 p.m. Monday, Oct 26",
+        "Monday, Oct 26"
+      ],
+      "retrievalScores": [
+        7,
+        3,
+        0
+      ],
+      "retrievalScore": 10.3,
+      "evidence": [
+        "2 introduces powerful built-in AI capabilities that enable developers and users to interact with data in more natural, intelligent ways.",
+        "In this session, explore how APEX transforms applications with natural language interfaces, conversational AI, intelligent dashboards, and automated data summarization.",
+        "Learn how AI agents and AI tools enable LLMs to securely retrieve relevant data through enterprise data access controls, execute agentic workflows, and interact through AI-powered widgets and reports.",
+        "See how retrieval-augmented generation (RAG) and AI Vector Search in Oracle AI Database help deliver accurate, relevant, and context-aware responses grounded in private enterprise data."
+      ],
+      "goalScores": [
+        2,
+        2,
+        1
+      ],
+      "reason": "See how APEX AI features use RAG and AI Vector Search for grounded responses, with agents retrieving data under enterprise access controls.",
+      "evidenceQuote": "See how retrieval-augmented generation (RAG) and AI Vector Search in Oracle AI Database help deliver accurate, relevant, and context-aware responses grounded in private enterprise data.",
+      "backup": {
+        "id": "1789537198206001svV2",
+        "sessionId": "1785266785925001zdqX",
+        "code": "HOL2207",
+        "title": "Deploy LangGraph Agents with OCI Enterprise AI",
+        "description": "Building a LangGraph agent is only the beginning. The real challenge is turning that local prototype into a secure, scalable application that enterprise teams can operate with confidence. In this hands-on lab, you’ll package a LangGraph agent as a FastAPI service, containerize it, and deploy it as a managed application on OCI Enterprise AI. You’ll configure an agent that analyzes support tickets, classifies their severity, and drafts an initial response grounded in product documentation. Leave with a working, cloud-hosted LangGraph agent and a repeatable pattern for moving agentic AI applications from experimentation to production on OCI Enterprise AI.",
+        "type": "Hands-on Lab",
+        "date": "2026-10-26",
+        "start": "2026-10-26T23:00:00.000Z",
+        "end": "2026-10-27T00:30:00.000Z",
+        "room": "Casanova 505, Level 1",
+        "capacity": 40,
+        "seatStatus": "not-published",
+        "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=HOL2207",
+        "attributes": [
+          "Hands-on Lab",
+          "Oracle Cloud Infrastructure",
+          "AI",
+          "Oracle Cloud Infrastructure",
+          "Al Agents",
+          "Non-Industry Specific",
+          "Intermediate (1-5 yrs user of Oracle)",
+          "Developer",
+          "Tech Executive",
+          "Tech End User",
+          "Tech IT Manager",
+          "In Person",
+          "Participants must bring their own standard Windows or Mac laptop with at least 8GB of RAM, Chrome installed. Optional: Python3, Codex or other Coding Agent, VSCode.",
+          "Yes",
+          "Cloud Infrastructure",
+          "Developer Technology",
+          "Monday, Oct 26",
+          "4:00 p.m. Monday, Oct 26"
+        ],
+        "retrievalScores": [
+          1,
+          19,
+          1
+        ],
+        "retrievalScore": 21.45,
+        "evidence": [
+          "Building a LangGraph agent is only the beginning.",
+          "The real challenge is turning that local prototype into a secure, scalable application that enterprise teams can operate with confidence.",
+          "In this hands-on lab, you’ll package a LangGraph agent as a FastAPI service, containerize it, and deploy it as a managed application on OCI Enterprise AI.",
+          "You’ll configure an agent that analyzes support tickets, classifies their severity, and drafts an initial response grounded in product documentation.",
+          "Leave with a working, cloud-hosted LangGraph agent and a repeatable pattern for moving agentic AI applications from experimentation to production on OCI Enterprise AI."
+        ],
+        "goalScores": [
+          0,
+          3,
+          2
+        ],
+        "reason": "A practical OCI deployment lab that packages a LangGraph agent as a FastAPI service, containerizes it, and deploys it as a managed application.",
+        "evidenceQuote": "You’ll configure an agent that analyzes support tickets, classifies their severity, and drafts an initial response grounded in product documentation."
+      }
+    },
+    {
+      "id": "1789687609524001YSQ8",
+      "sessionId": "1782249679216001pXkM",
+      "code": "LRN1229",
+      "title": "Agents in the AI Data Platform: From Design to Production at Scale",
+      "description": "This technical deep dive explores how enterprise AI agents can be built, grounded, evaluated, and operated using Oracle AI Data Platform. Walk through the agent lifecycle—from design patterns and grounding techniques (MCP, RAG, SQL, and semantic context) to integration with enterprise systems, policy controls, and human-in-the-loop workflows. The session also covers evaluation approaches, observability, auditability, and deployment practices for production environments. Attendees will see how Oracle AI Data Platform can help developers move beyond prototypes and develop business-process agents with evaluation, observability, policy controls, and human-in-the-loop workflows.",
+      "type": "Learning Session",
+      "date": "2026-10-27",
+      "start": "2026-10-27T15:00:00.000Z",
+      "end": "2026-10-27T15:45:00.000Z",
+      "room": "Titian 2206, Level 2",
+      "capacity": 158,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN1229",
+      "attributes": [
+        "Learning Session",
+        "Oracle AI Data Platform",
+        "AI",
+        "AI Data Platform",
+        "Al Agents",
+        "Analytics",
+        "Non-Industry Specific",
+        "Intermediate (1-5 yrs user of Oracle)",
+        "Developer",
+        "Tech End User",
+        "Tech IT Manager",
+        "In Person",
+        "Yes",
+        "Oracle Database",
+        "Data Management",
+        "Developer Technology",
+        "8:00 a.m. Tuesday, Oct 27",
+        "Tuesday, Oct 27"
+      ],
+      "retrievalScores": [
+        1,
+        7,
+        7
+      ],
+      "retrievalScore": 15.15,
+      "evidence": [
+        "This technical deep dive explores how enterprise AI agents can be built, grounded, evaluated, and operated using Oracle AI Data Platform.",
+        "Walk through the agent lifecycle—from design patterns and grounding techniques (MCP, RAG, SQL, and semantic context) to integration with enterprise systems, policy controls, and human-in-the-loop workflows.",
+        "The session also covers evaluation approaches, observability, auditability, and deployment practices for production environments.",
+        "Attendees will see how Oracle AI Data Platform can help developers move beyond prototypes and develop business-process agents with evaluation, observability, policy controls, and human-in-the-loop workflows."
+      ],
+      "goalScores": [
+        2,
+        2,
+        3
+      ],
+      "reason": "This technical session covers grounding agents with RAG and production practices including evaluation, observability, auditability, and policy controls.",
+      "evidenceQuote": "The session also covers evaluation approaches, observability, auditability, and deployment practices for production environments.",
+      "backup": {
+        "id": "1790207357281001kSfj",
+        "sessionId": "1785453821790001NnBM",
+        "code": "LRN2248",
+        "title": "Evaluating and Deploying the Latest Innovations with Oracle AI Database@AWS",
+        "description": "Enterprises migrating Oracle workloads to cloud face a compounding challenge: they need to move mission-critical databases while simultaneously enabling AI agents to access that data with real-time, secure, low-latency connectivity. Oracle AI Database@AWS solves both by placing Exadata services inside AWS, giving applications and agents sub-millisecond access to operational data. In this session, we walk through how customers evaluate and deploy Oracle AI Database@AWS in production, leveraging native AWS integrations. In addition, learn what is new in the service, how customers can enable agentic data access using Amazon Bedrock and Oracle AI Vector Search.",
+        "type": "Learning Session",
+        "date": "2026-10-27",
+        "start": "2026-10-27T15:00:00.000Z",
+        "end": "2026-10-27T15:45:00.000Z",
+        "room": "Veronese 2403, Level 2",
+        "capacity": 72,
+        "seatStatus": "not-published",
+        "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN2248",
+        "attributes": [
+          "Learning Session",
+          "Oracle AI Database",
+          "Multicloud",
+          "Oracle AI Database",
+          "Non-Industry Specific",
+          "Intermediate (1-5 yrs user of Oracle)",
+          "Tech Executive",
+          "Tech IT Manager",
+          "Business Executive",
+          "In Person",
+          "In Person and On Demand",
+          "Yes",
+          "Cloud Infrastructure",
+          "Data Management",
+          "8:00 a.m. Tuesday, Oct 27",
+          "Tuesday, Oct 27"
+        ],
+        "retrievalScores": [
+          4,
+          9,
+          2
+        ],
+        "retrievalScore": 15.15,
+        "evidence": [
+          "Enterprises migrating Oracle workloads to cloud face a compounding challenge: they need to move mission-critical databases while simultaneously enabling AI agents to access that data with real-time, secure, low-latency connectivity.",
+          "Oracle AI Database@AWS solves both by placing Exadata services inside AWS, giving applications and agents sub-millisecond access to operational data.",
+          "In this session, we walk through how customers evaluate and deploy Oracle AI Database@AWS in production, leveraging native AWS integrations.",
+          "In addition, learn what is new in the service, how customers can enable agentic data access using Amazon Bedrock and Oracle AI Vector Search."
+        ],
+        "goalScores": [
+          2,
+          1,
+          1
+        ],
+        "reason": "Learn how Oracle AI Vector Search can provide agentic data access in a production database deployment on AWS.",
+        "evidenceQuote": "In addition, learn what is new in the service, how customers can enable agentic data access using Amazon Bedrock and Oracle AI Vector Search."
+      }
+    },
+    {
+      "id": "1789503005714001gbaZ",
+      "sessionId": "1784566293778001lS0m",
+      "code": "LRN6035",
+      "title": "Trusted Agentic AI with Oracle AI Database",
+      "description": "Oracle AI Database has evolved into an AI-native agentic platform. Learn how agents can find relevant data using AI Vector Search across all kinds of data; how they can reason on data with database-native semantic knowledge, RAG, and agent flows; how they can remember key information with a unified agent memory core; how they can scale to the needs of any workload and any scale. Also learn how to protect your data from AI-era threats using deep data security and industrial-strength fault-tolerance; how to eliminate lock-in with multicloud, open standards, and AI for any data, wherever it resides. Finally, learn how to rapidly build and deploy enterprise agents with database-integrated agent builders and agentic solutions.",
+      "type": "Learning Session",
+      "date": "2026-10-27",
+      "start": "2026-10-27T17:30:00.000Z",
+      "end": "2026-10-27T18:15:00.000Z",
+      "room": "Titian 2206, Level 2",
+      "capacity": 158,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6035",
+      "attributes": [
+        "Learning Session",
+        "Oracle AI Database",
+        "AI",
+        "Vector Search",
+        "Al Agents",
+        "Oracle AI Database",
+        "Non-Industry Specific",
+        "Beginner (New user of Oracle)",
+        "Developer",
+        "Tech End User",
+        "Database Administrator",
+        "In Person",
+        "Oracle Database Page",
+        "Yes",
+        "Data Management",
+        "Developer Technology",
+        "10:00 a.m. Tuesday, Oct 27",
+        "Tuesday, Oct 27"
+      ],
+      "retrievalScores": [
+        3,
+        13,
+        0
+      ],
+      "retrievalScore": 16.45,
+      "evidence": [
+        "Oracle AI Database has evolved into an AI-native agentic platform.",
+        "Learn how agents can find relevant data using AI Vector Search across all kinds of data; how they can reason on data with database-native semantic knowledge, RAG, and agent flows; how they can remember key information with a unified agent memory core; how they can scale to the needs of any workload and any scale.",
+        "Also learn how to protect your data from AI-era threats using deep data security and industrial-strength fault-tolerance; how to eliminate lock-in with multicloud, open standards, and AI for any data, wherever it resides.",
+        "Finally, learn how to rapidly build and deploy enterprise agents with database-integrated agent builders and agentic solutions."
+      ],
+      "goalScores": [
+        3,
+        3,
+        2
+      ],
+      "reason": "This session covers database-native vector retrieval, RAG, agent flows, memory, security, and building and deploying enterprise agents.",
+      "evidenceQuote": "Learn how agents can find relevant data using AI Vector Search across all kinds of data; how they can reason on data with database-native semantic knowledge, RAG, and agent flows; how they can remember key information with a unified agent memory core; how they can scale to the needs of any workload and any scale.",
+      "backup": {
+        "id": "1790205744308001kaLV",
+        "sessionId": "1785823778333001ngnb",
+        "code": "HOL2330",
+        "title": "Build an AI Agent Using RAG, Tools, and Data with AI Data Platform",
+        "description": "Multiple developers and tools are often required to transform raw data into AI-powered applications. This session explores how the end-to-end data-to-AI-agent lifecycle can be orchestrated using the Oracle AI Data Platform. Learn how structured and unstructured data can be ingested, transformed, and processed through ML inference for use by AI agents in production deployments. You will prepare structured and unstructured data, create a grounded retrieval flow, add approved tools, incorporate business context, and implement an agent using reusable project assets. Next, you will create an evaluation set, inspect traces, diagnose retrieval or tool-selection issues, and add a release gate before deployment.",
+        "type": "Hands-on Lab",
+        "date": "2026-10-27",
+        "start": "2026-10-27T17:00:00.000Z",
+        "end": "2026-10-27T18:30:00.000Z",
+        "room": "Casanova 605, Level 1",
+        "capacity": 40,
+        "seatStatus": "not-published",
+        "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=HOL2330",
+        "attributes": [
+          "Hands-on Lab",
+          "Oracle AI Data Platform",
+          "AI",
+          "AI Data Platform",
+          "Al Agents",
+          "Non-Industry Specific",
+          "Intermediate (1-5 yrs user of Oracle)",
+          "Developer",
+          "Tech End User",
+          "In Person",
+          "Bring your laptop to follow along for the best hands-on experience. Laptops are not provided",
+          "Yes",
+          "Oracle Database",
+          "Data Management",
+          "Developer Technology",
+          "10:00 a.m. Tuesday, Oct 27",
+          "Tuesday, Oct 27"
+        ],
+        "retrievalScores": [
+          7,
+          7,
+          1
+        ],
+        "retrievalScore": 15.3,
+        "evidence": [
+          "Multiple developers and tools are often required to transform raw data into AI-powered applications.",
+          "This session explores how the end-to-end data-to-AI-agent lifecycle can be orchestrated using the Oracle AI Data Platform.",
+          "Learn how structured and unstructured data can be ingested, transformed, and processed through ML inference for use by AI agents in production deployments.",
+          "You will prepare structured and unstructured data, create a grounded retrieval flow, add approved tools, incorporate business context, and implement an agent using reusable project assets.",
+          "Next, you will create an evaluation set, inspect traces, diagnose retrieval or tool-selection issues, and add a release gate before deployment."
+        ],
+        "goalScores": [
+          1,
+          3,
+          3
+        ],
+        "reason": "Build an AI Data Platform agent with grounded retrieval and tools, then evaluate it by inspecting traces, diagnosing issues, and adding a release gate.",
+        "evidenceQuote": "Next, you will create an evaluation set, inspect traces, diagnose retrieval or tool-selection issues, and add a release gate before deployment."
+      }
+    },
+    {
+      "id": "1789503327785001sBwy",
+      "sessionId": "1784566208037001cVpA",
+      "code": "LRN6033",
+      "title": "AI Vector Search: What's New and What's Next",
+      "description": "Explore the latest innovations in Oracle AI Vector Search for building scalable, intelligent AI agents. Learn how multivector capabilities help improve semantic understanding, how hybrid search combines vector and keyword search to help deliver more relevant results, and how partitioned, distributed, and local indexes are designed to support performance, scalability, and efficiency for enterprise AI workloads. You'll also discover how the new Autonomous AI Vector Database combines Oracle AI Vector Search with Oracle's converged database architecture to power agentic AI through a simple, API-first cloud service for AI developers.",
+      "type": "Learning Session",
+      "date": "2026-10-27",
+      "start": "2026-10-27T20:00:00.000Z",
+      "end": "2026-10-27T20:45:00.000Z",
+      "room": "Titian 2206, Level 2",
+      "capacity": 158,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6033",
+      "attributes": [
+        "Learning Session",
+        "Oracle AI Database",
+        "AI",
+        "Vector Search",
+        "Oracle AI Database",
+        "Non-Industry Specific",
+        "Intermediate (1-5 yrs user of Oracle)",
+        "Developer",
+        "Tech IT Manager",
+        "Database Administrator",
+        "In Person",
+        "Yes",
+        "Data Management",
+        "Developer Technology",
+        "1:00 p.m. Tuesday, Oct 27",
+        "Tuesday, Oct 27"
+      ],
+      "retrievalScores": [
+        10,
+        4,
+        0
+      ],
+      "retrievalScore": 14.3,
+      "evidence": [
+        "Explore the latest innovations in Oracle AI Vector Search for building scalable, intelligent AI agents.",
+        "Learn how multivector capabilities help improve semantic understanding, how hybrid search combines vector and keyword search to help deliver more relevant results, and how partitioned, distributed, and local indexes are designed to support performance, scalability, and efficiency for enterprise AI workloads.",
+        "You'll also discover how the new Autonomous AI Vector Database combines Oracle AI Vector Search with Oracle's converged database architecture to power agentic AI through a simple, API-first cloud service for AI developers."
+      ],
+      "goalScores": [
+        2,
+        2,
+        1
+      ],
+      "reason": "Learn vector-search techniques including hybrid retrieval and scalable indexes that support enterprise AI agents.",
+      "evidenceQuote": "Learn how multivector capabilities help improve semantic understanding, how hybrid search combines vector and keyword search to help deliver more relevant results, and how partitioned, distributed, and local indexes are designed to support performance, scalability, and efficiency for enterprise AI workloads.",
+      "backup": {
+        "id": "1789503368508001j3ai",
+        "sessionId": "1785442327087001c9qC",
+        "code": "LRN6082",
+        "title": "AI Without Cloud Boundaries: Autonomous AI Database on AWS, Azure, Google Cloud",
+        "description": "Enterprise AI depends on trusted, governed data that often spans multiple clouds. Oracle Autonomous AI Database Serverless is available on OCI, AWS, Microsoft Azure, and Google Cloud, helping teams build AI-powered applications closer to their data while using their preferred cloud platforms. In this session, learn how Oracle Autonomous AI Database Serverless helps accelerate AI development with a fully managed, self-securing, and self-scaling Oracle Database. We’ll explore Select AI, Oracle AI Vector Search, retrieval-augmented generation (RAG), and autonomous capabilities that can help simplify development and reduce operational complexity.",
+        "type": "Learning Session",
+        "date": "2026-10-27",
+        "start": "2026-10-27T20:00:00.000Z",
+        "end": "2026-10-27T20:45:00.000Z",
+        "room": "Galileo 1002, Level 1",
+        "capacity": 72,
+        "seatStatus": "not-published",
+        "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6082",
+        "attributes": [
+          "Learning Session",
+          "Oracle AI Database",
+          "Multicloud",
+          "Autonomous AI Database",
+          "Non-Industry Specific",
+          "Intermediate (1-5 yrs user of Oracle)",
+          "Database Administrator",
+          "In Person",
+          "Yes",
+          "Cloud Infrastructure",
+          "Data Management",
+          "1:00 p.m. Tuesday, Oct 27",
+          "Tuesday, Oct 27"
+        ],
+        "retrievalScores": [
+          7,
+          8,
+          1
+        ],
+        "retrievalScore": 16.15,
+        "evidence": [
+          "Enterprise AI depends on trusted, governed data that often spans multiple clouds.",
+          "Oracle Autonomous AI Database Serverless is available on OCI, AWS, Microsoft Azure, and Google Cloud, helping teams build AI-powered applications closer to their data while using their preferred cloud platforms.",
+          "In this session, learn how Oracle Autonomous AI Database Serverless helps accelerate AI development with a fully managed, self-securing, and self-scaling Oracle Database.",
+          "We’ll explore Select AI, Oracle AI Vector Search, retrieval-augmented generation (RAG), and autonomous capabilities that can help simplify development and reduce operational complexity."
+        ],
+        "goalScores": [
+          2,
+          1,
+          1
+        ],
+        "reason": "Explore Oracle AI Vector Search and RAG in a managed database, with cross-cloud options for building AI-powered applications.",
+        "evidenceQuote": "We’ll explore Select AI, Oracle AI Vector Search, retrieval-augmented generation (RAG), and autonomous capabilities that can help simplify development and reduce operational complexity."
+      }
+    },
+    {
+      "id": "1792082655503001wrSK",
+      "sessionId": "1791566103681001CDAk",
+      "code": "THR2850",
+      "title": "Governed Intelligence: Enterprise Agentic AI on Oracle OCI & AI Data Platform",
+      "description": "What if enterprise controls could proactively detect risks, orchestrate remediation, and deliver audit-ready evidence continuously? Discover how Oracle Cloud Infrastructure (OCI) and Oracle AI Data Platform (AIDP) enable governed agentic AI across connected enterprise applications. Through a real-world SOX ITGC automation use case, explore a seven-layer architecture spanning source systems, data integration, evidence storage, AI agents, workflow orchestration, human validation, and the experience layer. Learn how intelligent agents, deterministic controls, and human oversight transform manual compliance into continuous monitoring, automated exception management, and trusted, audit-ready enterprise operations.",
+      "type": "Hub Theater",
+      "date": "2026-10-27",
+      "start": "2026-10-27T21:30:00.000Z",
+      "end": "2026-10-27T21:50:00.000Z",
+      "room": "Theater 4, Oracle AI World Hub",
+      "capacity": 10000,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=THR2850",
+      "attributes": [
+        "Hub Theater",
+        "Oracle AI Data Platform",
+        "AI",
+        "Oracle Cloud Infrastructure",
+        "AI Data Platform",
+        "Communications, Media & Entertainment",
+        "Financial Services",
+        "Retail and Consumer Packaged Goods",
+        "Intermediate (1-5 yrs user of Oracle)",
+        "Tech Executive",
+        "Business Executive",
+        "Business End User",
+        "In Person",
+        "Yes",
+        "Cloud Infrastructure",
+        "Oracle Database",
+        "Data Management",
+        "Developer Technology",
+        "2:00 p.m. Tuesday, Oct 27",
+        "Tuesday, Oct 27"
+      ],
+      "retrievalScores": [
+        2,
+        18,
+        6
+      ],
+      "retrievalScore": 26.45,
+      "evidence": [
+        "What if enterprise controls could proactively detect risks, orchestrate remediation, and deliver audit-ready evidence continuously?",
+        "Discover how Oracle Cloud Infrastructure (OCI) and Oracle AI Data Platform (AIDP) enable governed agentic AI across connected enterprise applications.",
+        "Through a real-world SOX ITGC automation use case, explore a seven-layer architecture spanning source systems, data integration, evidence storage, AI agents, workflow orchestration, human validation, and the experience layer.",
+        "Learn how intelligent agents, deterministic controls, and human oversight transform manual compliance into continuous monitoring, automated exception management, and trusted, audit-ready enterprise operations."
+      ],
+      "goalScores": [
+        0,
+        2,
+        3
+      ],
+      "reason": "A real-world OCI/AIDP agent architecture emphasizes deterministic controls, human validation, continuous monitoring, and audit-ready operations.",
+      "evidenceQuote": "Through a real-world SOX ITGC automation use case, explore a seven-layer architecture spanning source systems, data integration, evidence storage, AI agents, workflow orchestration, human validation, and the experience layer.",
+      "backup": {
+        "id": "1790981201585001MW00",
+        "sessionId": "1789074082933001dgMd",
+        "code": "LRN2671",
+        "title": "Accelerating AI Across Oracle Applications: OCI with NVIDIA Developer Engagement",
+        "description": "In this session, you'll learn the integration patterns and architectural approaches that NVIDIA and Oracle's technical teams have developed across vector search, RAG, and agentic AI orchestration. We'll walk through proven approaches you can apply directly to accelerate your own enterprise data processing workflows.",
+        "type": "Learning Session",
+        "date": "2026-10-27",
+        "start": "2026-10-27T18:45:00.000Z",
+        "end": "2026-10-27T19:30:00.000Z",
+        "room": "Veronese 2403, Level 2",
+        "capacity": 72,
+        "seatStatus": "not-published",
+        "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN2671",
+        "attributes": [
+          "Learning Session",
+          "Customer Success",
+          "AI",
+          "Al Agents",
+          "Developer Technologies",
+          "Non-Industry Specific",
+          "General Audience",
+          "Developer",
+          "Tech End User",
+          "In Person",
+          "In Person and On Demand",
+          "Yes",
+          "Developer Technology",
+          "11:00 a.m. Tuesday, Oct 27",
+          "Tuesday, Oct 27"
+        ],
+        "retrievalScores": [
+          8,
+          12,
+          0
+        ],
+        "retrievalScore": 20.15,
+        "evidence": [
+          "In this session, you'll learn the integration patterns and architectural approaches that NVIDIA and Oracle's technical teams have developed across vector search, RAG, and agentic AI orchestration.",
+          "We'll walk through proven approaches you can apply directly to accelerate your own enterprise data processing workflows."
+        ],
+        "goalScores": [
+          2,
+          2,
+          0
+        ],
+        "reason": "Learn Oracle and NVIDIA integration patterns across vector search, RAG, and agentic AI orchestration that you can apply to enterprise workflows.",
+        "evidenceQuote": "We'll walk through proven approaches you can apply directly to accelerate your own enterprise data processing workflows."
+      }
+    },
+    {
+      "id": "1789503856878001jeyh",
+      "sessionId": "1782927646060001DKqJ",
+      "code": "HOL6011",
+      "title": "From Embeddings to Agent Context: Build on Autonomous AI Vector Database",
+      "description": "In this hands-on lab, you’ll learn techniques for building vector-powered AI applications using Oracle Autonomous AI Vector Database. You’ll import an ONNX embedding model, load sample data, generate embeddings, perform semantic similarity searches, and combine semantic retrieval with metadata filters. You’ll work with the Python SDK to use auto-generated vector embeddings and bring-your-own vector embeddings workflows, then package retrieval as a read-only agent context tool. By the end of the lab, you’ll have a working understanding of AI Vector Search, metadata filtering, and database-native AI capabilities in Oracle Autonomous AI Vector Database.",
+      "type": "Hands-on Lab",
+      "date": "2026-10-28",
+      "start": "2026-10-28T16:00:00.000Z",
+      "end": "2026-10-28T17:30:00.000Z",
+      "room": "Marco Polo 703, Level 1",
+      "capacity": 40,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=HOL6011",
+      "attributes": [
+        "Hands-on Lab",
+        "Oracle AI Database",
+        "AI",
+        "Oracle Cloud Infrastructure",
+        "Al Agents",
+        "Al Lakehouse",
+        "Architecture",
+        "Autonomous AI Database",
+        "Developer Technologies",
+        "Oracle AI Database",
+        "Non-Industry Specific",
+        "General Audience",
+        "Developer",
+        "In Person",
+        "Bring your laptop to follow along for the best hands-on experience. Laptops are not provided",
+        "Yes",
+        "Cloud Infrastructure",
+        "Data Management",
+        "Developer Technology",
+        "9:00 a.m. Wednesday, Oct 28",
+        "Wednesday, Oct 28"
+      ],
+      "retrievalScores": [
+        8,
+        8,
+        0
+      ],
+      "retrievalScore": 16.6,
+      "evidence": [
+        "In this hands-on lab, you’ll learn techniques for building vector-powered AI applications using Oracle Autonomous AI Vector Database.",
+        "You’ll import an ONNX embedding model, load sample data, generate embeddings, perform semantic similarity searches, and combine semantic retrieval with metadata filters.",
+        "You’ll work with the Python SDK to use auto-generated vector embeddings and bring-your-own vector embeddings workflows, then package retrieval as a read-only agent context tool.",
+        "By the end of the lab, you’ll have a working understanding of AI Vector Search, metadata filtering, and database-native AI capabilities in Oracle Autonomous AI Vector Database."
+      ],
+      "goalScores": [
+        3,
+        2,
+        1
+      ],
+      "reason": "A practical vector-app lab uses Python SDK workflows, semantic retrieval, metadata filters, and a read-only agent context tool.",
+      "evidenceQuote": "You’ll work with the Python SDK to use auto-generated vector embeddings and bring-your-own vector embeddings workflows, then package retrieval as a read-only agent context tool.",
+      "backup": {
+        "id": "1789688152162001RIH4",
+        "sessionId": "1785737177966001Igwh",
+        "code": "LRN2288",
+        "title": "AI Agent Governance and Human in the Loop with Oracle Integration",
+        "description": "Autonomous AI agents can accelerate business processes, but not every decision should be fully automated. In this session, Stan Tanev and Nathan Angstadt will demonstrate how Oracle Integration's Human in the Loop capabilities add approvals, reviews, and human oversight to agentic AI workflows. Learn how Oracle Integration connects and governs AI agents across Oracle AI Agent Studio for Fusion Applications, Oracle AI Data Platform Agent Hub, Oracle AI Database 26ai Agent Factory, OCI Enterprise AI, and third-party or custom agents. A live demo will show how to design, deploy, and manage governed agentic workflows with Oracle Integration.",
+        "type": "Learning Session",
+        "date": "2026-10-28",
+        "start": "2026-10-28T16:00:00.000Z",
+        "end": "2026-10-28T16:45:00.000Z",
+        "room": "Titian 2204, Level 2",
+        "capacity": 158,
+        "seatStatus": "not-published",
+        "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN2288",
+        "attributes": [
+          "Learning Session",
+          "Oracle AI Data Platform",
+          "AI",
+          "Integration",
+          "Al Agents",
+          "Non-Industry Specific",
+          "Intermediate (1-5 yrs user of Oracle)",
+          "Tech End User",
+          "Tech IT Manager",
+          "In Person",
+          "Yes",
+          "Developer Technology",
+          "9:00 a.m. Wednesday, Oct 28",
+          "Wednesday, Oct 28"
+        ],
+        "retrievalScores": [
+          1,
+          9,
+          5
+        ],
+        "retrievalScore": 15.15,
+        "evidence": [
+          "Autonomous AI agents can accelerate business processes, but not every decision should be fully automated.",
+          "In this session, Stan Tanev and Nathan Angstadt will demonstrate how Oracle Integration's Human in the Loop capabilities add approvals, reviews, and human oversight to agentic AI workflows.",
+          "Learn how Oracle Integration connects and governs AI agents across Oracle AI Agent Studio for Fusion Applications, Oracle AI Data Platform Agent Hub, Oracle AI Database 26ai Agent Factory, OCI Enterprise AI, and third-party or custom agents.",
+          "A live demo will show how to design, deploy, and manage governed agentic workflows with Oracle Integration."
+        ],
+        "goalScores": [
+          0,
+          2,
+          3
+        ],
+        "reason": "A live demonstration shows how to design and manage agent workflows with approvals, reviews, and human oversight.",
+        "evidenceQuote": "Learn how Oracle Integration connects and governs AI agents across Oracle AI Agent Studio for Fusion Applications, Oracle AI Data Platform Agent Hub, Oracle AI Database 26ai Agent Factory, OCI Enterprise AI, and third-party or custom agents."
+      }
+    },
+    {
+      "id": "1790029633369001V5CG",
+      "sessionId": "1787352585438001ZIIt",
+      "code": "THR6097",
+      "title": "Private AI End to End with Oracle Private AI Services Container",
+      "description": "Sensitive enterprise data shouldn't have to leave an organization's security boundary to become AI-ready. Join Oracle and NVIDIA to see an end-to-end private AI architecture using Oracle Private AI Services Container and Oracle AI Database. Learn how to generate embeddings privately, accelerate vector index creation with NVIDIA GPUs, retrieve enterprise knowledge with Oracle AI Vector Search, and securely perform inference using the Private LLM Service. Discover a practical retrieval-augmented generation (RAG) workflow and how to build secure, scalable AI applications while keeping models, prompts, data, and responses entirely within your own infrastructure.",
+      "type": "Hub Theater",
+      "date": "2026-10-28",
+      "start": "2026-10-28T18:00:00.000Z",
+      "end": "2026-10-28T18:20:00.000Z",
+      "room": "Theater 1, Oracle AI World Hub",
+      "capacity": 10000,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=THR6097",
+      "attributes": [
+        "Hub Theater",
+        "Oracle AI Database",
+        "AI",
+        "Al Agents",
+        "Oracle AI Database",
+        "Non-Industry Specific",
+        "Intermediate (1-5 yrs user of Oracle)",
+        "Developer",
+        "In Person",
+        "Yes",
+        "Data Management",
+        "Developer Technology",
+        "Wednesday, Oct 28",
+        "11:00 a.m. Wednesday, Oct 28"
+      ],
+      "retrievalScores": [
+        7,
+        3,
+        0
+      ],
+      "retrievalScore": 10.6,
+      "evidence": [
+        "Sensitive enterprise data shouldn't have to leave an organization's security boundary to become AI-ready.",
+        "Join Oracle and NVIDIA to see an end-to-end private AI architecture using Oracle Private AI Services Container and Oracle AI Database.",
+        "Learn how to generate embeddings privately, accelerate vector index creation with NVIDIA GPUs, retrieve enterprise knowledge with Oracle AI Vector Search, and securely perform inference using the Private LLM Service.",
+        "Discover a practical retrieval-augmented generation (RAG) workflow and how to build secure, scalable AI applications while keeping models, prompts, data, and responses entirely within your own infrastructure."
+      ],
+      "goalScores": [
+        3,
+        1,
+        3
+      ],
+      "reason": "Explore an end-to-end private RAG workflow covering private embeddings, vector retrieval, secure inference, and keeping data and prompts within your infrastructure.",
+      "evidenceQuote": "Learn how to generate embeddings privately, accelerate vector index creation with NVIDIA GPUs, retrieve enterprise knowledge with Oracle AI Vector Search, and securely perform inference using the Private LLM Service.",
+      "backup": null
+    },
+    {
+      "id": "1790790416004001X7gW",
+      "sessionId": "1789136892447001T65K",
+      "code": "LRN6103",
+      "title": "AI in the Database: The Grand Tour",
+      "description": "Oracle AI Database brings AI directly to your data, helping organizations unlock insights without moving information across systems. Join us for a guided tour of its integrated AI capabilities, including AI Vector Search across structured, unstructured, and multimodal data; retrieval-augmented generation (RAG) grounded in trusted enterprise content; and natural-language-to-SQL (NL2SQL) for more accessible database insights. We’ll also showcase agentic solutions that can reason, retrieve information, and take action within a governed database environment. See what’s possible when AI and data work together in the database.",
+      "type": "Learning Session",
+      "date": "2026-10-28",
+      "start": "2026-10-28T18:30:00.000Z",
+      "end": "2026-10-28T19:15:00.000Z",
+      "room": "Galileo 1001, Level 1",
+      "capacity": 72,
+      "seatStatus": "not-published",
+      "source": "https://reg.rf.oracle.com/flow/oracle/oaiw26/catalog/page/catalog?search=LRN6103",
+      "attributes": [
+        "Learning Session",
+        "Oracle AI Database",
+        "AI",
+        "Vector Search",
+        "Al Agents",
+        "Oracle AI Database",
+        "Non-Industry Specific",
+        "Beginner (New user of Oracle)",
+        "Developer",
+        "Tech End User",
+        "Database Administrator",
+        "In Person",
+        "Yes",
+        "Data Management",
+        "Developer Technology",
+        "Wednesday, Oct 28",
+        "11:00 a.m. Wednesday, Oct 28"
+      ],
+      "retrievalScores": [
+        6,
+        3,
+        2
+      ],
+      "retrievalScore": 11.15,
+      "evidence": [
+        "Oracle AI Database brings AI directly to your data, helping organizations unlock insights without moving information across systems.",
+        "Join us for a guided tour of its integrated AI capabilities, including AI Vector Search across structured, unstructured, and multimodal data; retrieval-augmented generation (RAG) grounded in trusted enterprise content; and natural-language-to-SQL (NL2SQL) for more accessible database insights.",
+        "We’ll also showcase agentic solutions that can reason, retrieve information, and take action within a governed database environment.",
+        "See what’s possible when AI and data work together in the database."
+      ],
+      "goalScores": [
+        2,
+        2,
+        1
+      ],
+      "reason": "A guided tour connects vector search and RAG with agentic solutions that retrieve and act within a governed database environment.",
+      "evidenceQuote": "We’ll also showcase agentic solutions that can reason, retrieve information, and take action within a governed database environment.",
+      "backup": null
+    }
+  ],
+  "goals": [
+    {
+      "goal": "Build RAG applications with vector search",
+      "status": "Supported",
+      "sessionIds": [
+        "1789501515711001gtrq",
+        "1789938190083001tOG4",
+        "1789501679132001g60N",
+        "1789687609524001YSQ8",
+        "1789503005714001gbaZ",
+        "1789503327785001sBwy",
+        "1789503856878001jeyh",
+        "1790029633369001V5CG",
+        "1790790416004001X7gW"
+      ],
+      "explanation": "9 selected sessions support this goal. Attendance supports learning; it does not verify mastery."
+    },
+    {
+      "goal": "Develop and deploy AI agents on OCI",
+      "status": "Supported",
+      "sessionIds": [
+        "1789938190083001tOG4",
+        "1789501679132001g60N",
+        "1789687609524001YSQ8",
+        "1789503005714001gbaZ",
+        "1789503327785001sBwy",
+        "1792082655503001wrSK",
+        "1789503856878001jeyh",
+        "1790790416004001X7gW"
+      ],
+      "explanation": "8 selected sessions support this goal. Attendance supports learning; it does not verify mastery."
+    },
+    {
+      "goal": "Evaluate and govern production AI systems",
+      "status": "Supported",
+      "sessionIds": [
+        "1789938190083001tOG4",
+        "1789687609524001YSQ8",
+        "1789503005714001gbaZ",
+        "1792082655503001wrSK",
+        "1790029633369001V5CG"
+      ],
+      "explanation": "5 selected sessions support this goal. Attendance supports learning; it does not verify mastery."
+    }
+  ],
+  "input": {
+    "profile": "I am a software developer with Python and JavaScript experience. I know LLM basics and want practical implementation skills on Oracle Cloud.",
+    "goals": [
+      "Build RAG applications with vector search",
+      "Develop and deploy AI agents on OCI",
+      "Evaluate and govern production AI systems"
+    ],
+    "days": [
+      "2026-10-26",
+      "2026-10-27",
+      "2026-10-28"
+    ]
+  },
+  "bufferMinutes": 10,
+  "timeZone": "America/Los_Angeles",
+  "generatedAt": "2026-10-25T21:26:01.521Z",
+  "mode": "live",
+  "model": "gpt-6-luna",
+  "aiCalled": true,
+  "catalogCapturedAt": "2026-10-25T21:17:21.678Z",
+  "catalogSize": 764,
+  "candidateCount": 72,
+  "rankedCount": 29,
+  "responseId": "resp_0c0975bbf52d822f016ade73c55cf887d08d19d425aa049bb8"
+}

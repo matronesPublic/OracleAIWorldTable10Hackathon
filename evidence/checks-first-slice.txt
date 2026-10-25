@@ -1,0 +1,21 @@
+✔ catalog snapshot has unique valid occurrences, official sources, and unchanged public seat status (47.5226ms)
+✔ input rejects missing goals, invalid days, oversized and empty backgrounds (0.3823ms)
+✔ public access baseline excludes paid training, hackathons, and ancillary events (0.2107ms)
+✔ ten-minute transition buffer is enforced exactly (0.1195ms)
+✔ scheduler prefers two valuable compatible sessions over one long session (2.1227ms)
+✔ backup may replace primary but must not conflict with remaining agenda (0.4007ms)
+✔ unsupported goals produce gaps rather than unrelated sessions (0.1586ms)
+✔ repeated offerings do not appear twice in the agenda (0.2415ms)
+✔ AI output cannot invent session IDs, unsupported evidence or score dimensions (0.9243ms)
+✔ candidate retrieval respects days and finds each fixed persona relevant material (73.0198ms)
+✔ AI request uses exact candidates and schema, with a deterministic validated result (41.9278ms)
+✔ missing credentials and provider failures stay explicit (37.8139ms)
+✔ 100 generated schedules and all their replacements satisfy the independent invariants (17.9952ms)
+ℹ tests 13
+ℹ suites 0
+ℹ pass 13
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 227.919

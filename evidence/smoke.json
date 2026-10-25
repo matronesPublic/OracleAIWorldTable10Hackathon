@@ -1,0 +1,39 @@
+{
+  "capturedAt": "2026-10-25T21:44:24.794Z",
+  "base": "http://127.0.0.1:3000",
+  "aiConfigured": true,
+  "checks": [
+    {
+      "path": "/",
+      "status": 200,
+      "bytes": 7072
+    },
+    {
+      "path": "/app.mjs",
+      "status": 200,
+      "bytes": 12236
+    },
+    {
+      "path": "/calendar.mjs",
+      "status": 200,
+      "bytes": 1796
+    },
+    {
+      "path": "/calendar.css",
+      "status": 200,
+      "bytes": 4413
+    },
+    {
+      "path": "/.env.local",
+      "status": 404
+    },
+    {
+      "path": "/SUBMISSION.md",
+      "status": 404
+    },
+    {
+      "path": "/lib/ai.mjs",
+      "status": 404
+    }
+  ]
+}
